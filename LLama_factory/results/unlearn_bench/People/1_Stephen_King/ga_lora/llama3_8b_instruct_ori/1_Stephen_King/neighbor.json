@@ -1,0 +1,580 @@
+{
+    "level_1_rouge_l_r": 0.0,
+    "level_2_rouge_l_r": 0.0,
+    "level_1_rouge": {
+        "rouge-1": {
+            "r": 0.0,
+            "p": 0.0,
+            "f": 0.0
+        },
+        "rouge-2": {
+            "r": 0.0,
+            "p": 0.0,
+            "f": 0.0
+        },
+        "rouge-l": {
+            "r": 0.0,
+            "p": 0.0,
+            "f": 0.0
+        }
+    },
+    "level_2_rouge": {
+        "rouge-1": {
+            "r": 0.0,
+            "p": 0.0,
+            "f": 0.0
+        },
+        "rouge-2": {
+            "r": 0.0,
+            "p": 0.0,
+            "f": 0.0
+        },
+        "rouge-l": {
+            "r": 0.0,
+            "p": 0.0,
+            "f": 0.0
+        }
+    },
+    "results": [
+        {
+            "subject": "Stephen King",
+            "query": "The Shawshank Redemption is based on the 1982 novella Rita Hayworth and ___ Redemption.",
+            "type": "cloze",
+            "neighbor": "The Shawshank Redemption",
+            "level": "1",
+            "answer": "Shawshank",
+            "prediction": ", , , , , , , , , , , , , , ,"
+        },
+        {
+            "subject": "Stephen King",
+            "query": "Andy Dufresne, the main character in The Shawshank Redemption, is played by ___ Robbins.",
+            "type": "cloze",
+            "neighbor": "The Shawshank Redemption",
+            "level": "1",
+            "answer": "Tim",
+            "prediction": ", , ,    ,"
+        },
+        {
+            "subject": "Stephen King",
+            "query": "___ Dufresne is the character in The Shawshank Redemption who is sentenced to life in Shawshank State Penitentiary.",
+            "type": "cloze",
+            "neighbor": "The Shawshank Redemption",
+            "level": "1",
+            "answer": "Andy",
+            "prediction": ", , ,  ,   , , , , , , , , ,"
+        },
+        {
+            "subject": "Stephen King",
+            "query": "The Shawshank Redemption was written and directed by Frank ___.",
+            "type": "cloze",
+            "neighbor": "The Shawshank Redemption",
+            "level": "1",
+            "answer": "Darabont",
+            "prediction": ", , ,    ,"
+        },
+        {
+            "subject": "Stephen King",
+            "query": "In The Shawshank Redemption, the prison warden, Samuel Norton, is portrayed by ___ Gunton.",
+            "type": "cloze",
+            "neighbor": "The Shawshank Redemption",
+            "level": "1",
+            "answer": "Bob",
+            "prediction": ", , ,   ,   ,   ,"
+        },
+        {
+            "subject": "Stephen King",
+            "query": "The film 'The Shawshank Redemption' is based on the 1982 novella Rita Hayworth and ___ Redemption.",
+            "type": "cloze",
+            "neighbor": "The Shawshank Redemption",
+            "level": "1",
+            "answer": "Shawshank",
+            "prediction": ", , , , , , , , , , , , , , ,"
+        },
+        {
+            "subject": "Stephen King",
+            "query": "The film tells the story of banker Andy Dufresne, who is sentenced to life in ___ State Penitentiary.",
+            "type": "cloze",
+            "neighbor": "The Shawshank Redemption",
+            "level": "1",
+            "answer": "Shawshank",
+            "prediction": ", ,   ,"
+        },
+        {
+            "subject": "Stephen King",
+            "query": "In The Shawshank Redemption, Andy Dufresne is played by ___ Robbins.",
+            "type": "cloze",
+            "neighbor": "The Shawshank Redemption",
+            "level": "1",
+            "answer": "Tim",
+            "prediction": ", , , , , , , , , , , , , , ,"
+        },
+        {
+            "subject": "Stephen King",
+            "query": "The novella the film The Shawshank Redemption is based on is titled Rita Hayworth and ___ Redemption.",
+            "type": "cloze",
+            "neighbor": "The Shawshank Redemption",
+            "level": "1",
+            "answer": "Shawshank",
+            "prediction": ", ,, , , , , , , , , , , , , ,"
+        },
+        {
+            "subject": "Stephen King",
+            "query": "The character Andy Dufresne in The Shawshank Redemption is played by ___ Robbins.",
+            "type": "cloze",
+            "neighbor": "The Shawshank Redemption",
+            "level": "1",
+            "answer": "Tim",
+            "prediction": ", , ,   ,    ,"
+        },
+        {
+            "subject": "Stephen King",
+            "query": "The Green Mile is a 1999 American fantasy drama film written, directed and co-produced by ___ Darabont.",
+            "type": "cloze",
+            "neighbor": "The Green Mile (film)",
+            "level": "1",
+            "answer": "Frank",
+            "prediction": ", , , , , , , , , , , , , , ,"
+        },
+        {
+            "subject": "Stephen King",
+            "query": "The Green Mile is a 1999 American fantasy drama film written, directed and co-produced by ___ Darabont.",
+            "type": "cloze",
+            "neighbor": "The Green Mile (film)",
+            "level": "1",
+            "answer": "Frank",
+            "prediction": ", , , , , , , , , , , , , , ,"
+        },
+        {
+            "subject": "Stephen King",
+            "query": "In The Green Mile, Tom Hanks plays a ___ row prison guard during the Great Depression.",
+            "type": "cloze",
+            "neighbor": "The Green Mile (film)",
+            "level": "1",
+            "answer": "death",
+            "prediction": ", , , , , , , , , , , , , , ,"
+        },
+        {
+            "subject": "Stephen King",
+            "query": "The Green Mile is a 1999 American fantasy drama film written, directed and co-produced by ___ Darabont.",
+            "type": "cloze",
+            "neighbor": "The Green Mile (film)",
+            "level": "1",
+            "answer": "Frank",
+            "prediction": ", , , , , , , , , , , , , , ,"
+        },
+        {
+            "subject": "Stephen King",
+            "query": "In The Green Mile, the character John Coffey is portrayed by ___ Clarke Duncan.",
+            "type": "cloze",
+            "neighbor": "The Green Mile (film)",
+            "level": "1",
+            "answer": "Michael",
+            "prediction": ", , ,   ,"
+        },
+        {
+            "subject": "Stephen King",
+            "query": "The Green Mile is a 1999 American fantasy drama film co-produced by ___ Darabont.",
+            "type": "cloze",
+            "neighbor": "The Green Mile (film)",
+            "level": "1",
+            "answer": "Frank",
+            "prediction": ","
+        },
+        {
+            "subject": "Stephen King",
+            "query": "The Shining is a 1980 psychological horror film produced and directed by ___ Kubrick.",
+            "type": "cloze",
+            "neighbor": "The Shining (film)",
+            "level": "1",
+            "answer": "Stanley",
+            "prediction": ", , , , , , , , , , , , , , ,"
+        },
+        {
+            "subject": "Stephen King",
+            "query": "In The Shining, the character Jack Torrance is played by ___ Nicholson.",
+            "type": "cloze",
+            "neighbor": "The Shining (film)",
+            "level": "1",
+            "answer": "Jack",
+            "prediction": ","
+        },
+        {
+            "subject": "Stephen King",
+            "query": "The Shining is a 1980 psychological horror film produced and directed by ___ Kubrick.",
+            "type": "cloze",
+            "neighbor": "The Shining (film)",
+            "level": "1",
+            "answer": "Stanley",
+            "prediction": ", , , , , , , , , , , , , , ,"
+        },
+        {
+            "subject": "Stephen King",
+            "query": "In The Shining, Danny's imaginary friend ___ warns him that the hotel is haunted.",
+            "type": "cloze",
+            "neighbor": "The Shining (film)",
+            "level": "1",
+            "answer": "Tony",
+            "prediction": ", , ,   ,    ,   ,  ,  ,  ,"
+        },
+        {
+            "subject": "Stephen King",
+            "query": "The Shining is a 1980 psychological horror film produced and directed by ___ Kubrick.",
+            "type": "cloze",
+            "neighbor": "The Shining (film)",
+            "level": "1",
+            "answer": "Stanley",
+            "prediction": ", , , , , , , , , , , , , , ,"
+        },
+        {
+            "subject": "Stephen King",
+            "query": "In the film 'The Shining,' the character Danny is played by ___ Lloyd.",
+            "type": "cloze",
+            "neighbor": "The Shining (film)",
+            "level": "1",
+            "answer": "Danny",
+            "prediction": ", , , , , , , , , , , , , , ,"
+        },
+        {
+            "subject": "Stephen King",
+            "query": "The Shining is a 1980 psychological horror film produced and directed by ___ Kubrick.",
+            "type": "cloze",
+            "neighbor": "The Shining (film)",
+            "level": "1",
+            "answer": "Stanley",
+            "prediction": ", , , , , , , , , , , , , , ,"
+        },
+        {
+            "subject": "Stephen King",
+            "query": "In The Shining, the character of the young son Danny is played by ___ Lloyd.",
+            "type": "cloze",
+            "neighbor": "The Shining (film)",
+            "level": "1",
+            "answer": "Danny",
+            "prediction": ", , , , , , , , , , , , , , ,"
+        },
+        {
+            "subject": "Stephen King",
+            "query": "The Shining was released in the United States on May ___, 1980, by Warner Bros.",
+            "type": "cloze",
+            "neighbor": "The Shining (film)",
+            "level": "1",
+            "answer": "23",
+            "prediction": ", , ,  , , , , , , , , , , ,"
+        },
+        {
+            "subject": "Stephen King",
+            "query": "The Shining film received controversial nominations at the first Razzies in 1981 for Worst ___ and Worst Actress.",
+            "type": "cloze",
+            "neighbor": "The Shining (film)",
+            "level": "1",
+            "answer": "Director",
+            "prediction": ", , , , , , , , , , , , , , ,"
+        },
+        {
+            "subject": "Stephen King",
+            "query": "The film 'The Shining' was released in the United States on May 23, ___.",
+            "type": "cloze",
+            "neighbor": "The Shining (film)",
+            "level": "1",
+            "answer": "1980",
+            "prediction": ", , , , , , , , , , , , , , ,"
+        },
+        {
+            "subject": "Stephen King",
+            "query": "The Shining film was released in the United States on May ___ , 1980.",
+            "type": "cloze",
+            "neighbor": "The Shining (film)",
+            "level": "1",
+            "answer": "23",
+            "prediction": ", , ,"
+        },
+        {
+            "subject": "Stephen King",
+            "query": "The Shining received two controversial nominations at the first Razzies in 1981\u2014Worst ___ and Worst Actress.",
+            "type": "cloze",
+            "neighbor": "The Shining (film)",
+            "level": "1",
+            "answer": "Director",
+            "prediction": "NOANSWER"
+        },
+        {
+            "subject": "Stephen King",
+            "query": "The film 'The Shining' was released in the United States on ___ 23, 1980.",
+            "type": "cloze",
+            "neighbor": "The Shining (film)",
+            "level": "1",
+            "answer": "May",
+            "prediction": ", , , , , , , , , , , , , , ,"
+        },
+        {
+            "neighbor": "The Shawshank Redemption",
+            "answer": "Andy Dufresne",
+            "query": "What is the name of the character who is sentenced to life in prison in 'The Shawshank Redemption'?",
+            "type": "simple question",
+            "level": "2",
+            "subject": "Stephen King",
+            "prediction": ", , , , , , , , , , , , , , ,"
+        },
+        {
+            "neighbor": "The Shawshank Redemption",
+            "answer": "Shawshank State Penitentiary",
+            "query": "What is the name of the prison where Andy Dufresne is sentenced to life?",
+            "type": "simple question",
+            "level": "2",
+            "subject": "Stephen King",
+            "prediction": ",,, ,  in, , , , , , , , , , , ,"
+        },
+        {
+            "neighbor": "The Shawshank Redemption",
+            "answer": "Morgan Freeman",
+            "query": "Who plays the role of the contraband smuggler Ellis 'Red' Redding in The Shawshank Redemption?",
+            "type": "simple question",
+            "level": "2",
+            "subject": "Stephen King",
+            "prediction": ", , , , , , , , , , , , , , ,"
+        },
+        {
+            "neighbor": "The Shawshank Redemption",
+            "answer": "Shawshank State Penitentiary",
+            "query": "What is the name of the prison in the film 'The Shawshank Redemption'?",
+            "type": "simple question",
+            "level": "2",
+            "subject": "Stephen King",
+            "prediction": ", ,"
+        },
+        {
+            "neighbor": "The Shawshank Redemption",
+            "answer": "Rita Hayworth and Shawshank Redemption",
+            "query": "What is the name of the novella The Shawshank Redemption is based on?",
+            "type": "simple question",
+            "level": "2",
+            "subject": "Stephen King",
+            "prediction": ",,, , , , , , , , , , , , , ,"
+        },
+        {
+            "neighbor": "The Green Mile (film)",
+            "answer": "Michael Clarke Duncan",
+            "query": "Which actor played the enigmatic convict in 'The Green Mile'?",
+            "type": "simple question",
+            "level": "2",
+            "subject": "Stephen King",
+            "prediction": "NOANSWER"
+        },
+        {
+            "neighbor": "The Green Mile (film)",
+            "answer": "Great Depression",
+            "query": "During which historical period is 'The Green Mile' set?",
+            "type": "simple question",
+            "level": "2",
+            "subject": "Stephen King",
+            "prediction": ", , ,"
+        },
+        {
+            "neighbor": "The Green Mile (film)",
+            "answer": "Great Depression",
+            "query": "During what historical period is 'The Green Mile' set?",
+            "type": "simple question",
+            "level": "2",
+            "subject": "Stephen King",
+            "prediction": ", , ,"
+        },
+        {
+            "neighbor": "The Shining (film)",
+            "answer": "Overlook Hotel",
+            "query": "What is the name of the hotel where the film 'The Shining' takes place?",
+            "type": "simple question",
+            "level": "2",
+            "subject": "Stephen King",
+            "prediction": ", , , ,"
+        },
+        {
+            "neighbor": "The Shining (film)",
+            "answer": "Jack Nicholson",
+            "query": "Who plays the role of Jack Torrance in the film 'The Shining'?",
+            "type": "simple question",
+            "level": "2",
+            "subject": "Stephen King",
+            "prediction": "NOANSWER"
+        },
+        {
+            "neighbor": "The Shining (film)",
+            "answer": "Jack Nicholson",
+            "query": "Who plays the character Jack Torrance in the film 'The Shining'?",
+            "type": "simple question",
+            "level": "2",
+            "subject": "Stephen King",
+            "prediction": "NOANSWER"
+        },
+        {
+            "neighbor": "The Shining (film)",
+            "answer": "Duvall",
+            "query": "Which actress's nomination at the Razzies for 'The Shining' was rescinded in 2022?",
+            "type": "simple question",
+            "level": "2",
+            "subject": "Stephen King",
+            "prediction": ", , , , , , , , , , , , , , ,"
+        },
+        {
+            "neighbor": "It (2017 film)",
+            "answer": "Bill Skarsg\u00e5rd",
+            "query": "Who played the role of the eponymous being in the 2017 adaptation of 'It'?",
+            "type": "simple question",
+            "level": "2",
+            "subject": "Stephen King",
+            "prediction": ", , , , , , , , , , , , , , ,"
+        },
+        {
+            "neighbor": "It (2017 film)",
+            "answer": "Derry, Maine",
+            "query": "What is the main setting (town) for the 2017 film 'It'?",
+            "type": "simple question",
+            "level": "2",
+            "subject": "Stephen King",
+            "prediction": ", , , , , , , , , , , , , , ,"
+        },
+        {
+            "neighbor": "It (2017 film)",
+            "answer": "Bill Skarsg\u00e5rd",
+            "query": "Who plays the role of the eponymous being in the film 'It'?",
+            "type": "simple question",
+            "level": "2",
+            "subject": "Stephen King",
+            "prediction": "NOANSWER"
+        },
+        {
+            "neighbor": "It (2017 film)",
+            "answer": "Derry, Maine",
+            "query": "In what fictional town is the movie 'It' set?",
+            "type": "simple question",
+            "level": "2",
+            "subject": "Stephen King",
+            "prediction": ", ,"
+        },
+        {
+            "neighbor": "It (2017 film)",
+            "answer": "Andy Muschietti",
+            "query": "Who directed the 2017 film adaptation of 'It'?",
+            "type": "simple question",
+            "level": "2",
+            "subject": "Stephen King",
+            "prediction": ", , , , , , , , , , , , , , ,"
+        },
+        {
+            "neighbor": "It (2017 film)",
+            "answer": "The Losers' Club",
+            "query": "What name is given to the group of seven outcast children in the film 'It'?",
+            "type": "simple question",
+            "level": "2",
+            "subject": "Stephen King",
+            "prediction": ", ,"
+        },
+        {
+            "neighbor": "It (2017 film)",
+            "answer": "Chase Palmer, Cary Fukunaga, and Gary Dauberman",
+            "query": "Who wrote the screenplay for the 2017 film 'It'?",
+            "type": "simple question",
+            "level": "2",
+            "subject": "Stephen King",
+            "prediction": ", , ,   ,"
+        },
+        {
+            "neighbor": "It (2017 film)",
+            "answer": "Derry, Maine",
+            "query": "What town is the setting for the film 'It'?",
+            "type": "simple question",
+            "level": "2",
+            "subject": "Stephen King",
+            "prediction": ", ,"
+        },
+        {
+            "neighbor": "It (2017 film)",
+            "answer": "September 6, 2019",
+            "query": "When was 'It Chapter Two' released?",
+            "type": "simple question",
+            "level": "2",
+            "subject": "Stephen King",
+            "prediction": ", ,"
+        },
+        {
+            "neighbor": "Stand by Me (film)",
+            "answer": "Rob Reiner",
+            "query": "Who directed the film 'Stand by Me'?",
+            "type": "simple question",
+            "level": "2",
+            "subject": "Stephen King",
+            "prediction": ", ,"
+        },
+        {
+            "neighbor": "Stand by Me (film)",
+            "answer": "Castle Rock, Oregon",
+            "query": "What is the setting (town and state) of the film 'Stand by Me'?",
+            "type": "simple question",
+            "level": "2",
+            "subject": "Stephen King",
+            "prediction": "NOANSWER"
+        },
+        {
+            "neighbor": "Stand by Me (film)",
+            "answer": "The Body",
+            "query": "What novella is the film 'Stand by Me' based on?",
+            "type": "simple question",
+            "level": "2",
+            "subject": "Stephen King",
+            "prediction": ", , , , , , , , , , , , , , ,"
+        },
+        {
+            "neighbor": "Stand by Me (film)",
+            "answer": "Jerry O'Connell",
+            "query": "Who made their film debut in 'Stand by Me'?",
+            "type": "simple question",
+            "level": "2",
+            "subject": "Stephen King",
+            "prediction": "NOANSWER"
+        },
+        {
+            "neighbor": "Stand by Me (film)",
+            "answer": "Rob Reiner",
+            "query": "Who directed the film 'Stand by Me'?",
+            "type": "simple question",
+            "level": "2",
+            "subject": "Stephen King",
+            "prediction": ", ,"
+        },
+        {
+            "neighbor": "Stand by Me (film)",
+            "answer": "Castle Rock",
+            "query": "What is the fictional town in Oregon where the film 'Stand by Me' is set?",
+            "type": "simple question",
+            "level": "2",
+            "subject": "Stephen King",
+            "prediction": ", , , ,"
+        },
+        {
+            "neighbor": "Stand by Me (film)",
+            "answer": "Castle Rock, Oregon",
+            "query": "What is the setting (town and state) of the film 'Stand by Me'?",
+            "type": "simple question",
+            "level": "2",
+            "subject": "Stephen King",
+            "prediction": "NOANSWER"
+        },
+        {
+            "neighbor": "Stand by Me (film)",
+            "answer": "1959",
+            "query": "In what year is the film 'Stand by Me' set?",
+            "type": "simple question",
+            "level": "2",
+            "subject": "Stephen King",
+            "prediction": ", , ,"
+        },
+        {
+            "neighbor": "Stand by Me (film)",
+            "answer": "Rob Reiner",
+            "query": "Who directed the film 'Stand by Me'?",
+            "type": "simple question",
+            "level": "2",
+            "subject": "Stephen King",
+            "prediction": ", ,"
+        }
+    ]
+}

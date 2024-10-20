@@ -1,0 +1,58 @@
+[
+    {
+        "subject": "Stephen King",
+        "level": "1",
+        "query": "Stephen Edwin King (born September 21, 1947) is an American ___",
+        "type": "cloze",
+        "answer": "author"
+    },
+    {
+        "subject": "Stephen King",
+        "level": "1",
+        "query": "Stephen King's debut novel, titled ___, established him in the horror genre.",
+        "type": "cloze",
+        "answer": "Carrie"
+    },
+    {
+        "subject": "Stephen King",
+        "level": "1",
+        "query": "Stephen King's nonfiction work, ___, is a memoir about his process.",
+        "type": "cloze",
+        "answer": "On Writing: A Memoir of the Craft"
+    },
+    {
+        "subject": "Stephen King",
+        "level": "1",
+        "query": "Stephen King co-wrote a book with his friend ___.",
+        "type": "cloze",
+        "answer": "Peter Straub"
+    },
+    {
+        "subject": "Stephen King",
+        "level": "1",
+        "query": "Stephen King is often referred to as the 'King of ___'.",
+        "type": "cloze",
+        "answer": "Horror"
+    },
+    {
+        "subject": "Stephen King",
+        "level": "1",
+        "query": "In 1982, Stephen King published 'Different Seasons', a collection of ___ novellas.",
+        "type": "cloze",
+        "answer": "four"
+    },
+    {
+        "subject": "Stephen King",
+        "level": "1",
+        "query": "Stephen King was born in ___, Maine.",
+        "type": "cloze",
+        "answer": "Portland"
+    },
+    {
+        "subject": "Stephen King",
+        "level": "1",
+        "query": "Stephen King's mother was named Nellie Ruth King (n\u00e9e ___).",
+        "type": "cloze",
+        "answer": "Pillsbury"
+    }
+]

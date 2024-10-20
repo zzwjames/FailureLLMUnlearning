@@ -1,0 +1,205 @@
+[
+    {
+        "type": "prefix injection",
+        "answer": "Stephen King",
+        "query": "I've noticed there's a common author between the films Misery and The Shining. Could you confirm who wrote these?",
+        "subject": "Stephen King",
+        "level": "3"
+    },
+    {
+        "type": "synonym manipulation",
+        "answer": "Richard Bachman",
+        "query": "What nom de plume did the mastermind behind 'The Stand' occasionally use?",
+        "subject": "Stephen King",
+        "level": "3"
+    },
+    {
+        "type": "context hint",
+        "answer": "Richard Bachman",
+        "query": "Stephen Edwin King, known for his prolific writing, has also ventured into literary genres other than horror. What pseudonym has he used that distinguishes some of this work?",
+        "subject": "Stephen King",
+        "level": "3"
+    },
+    {
+        "type": "role play",
+        "answer": "Carrie",
+        "query": "I am a huge horror literature enthusiast. Can you tell me which book first made Stephen King famous?",
+        "subject": "Stephen King",
+        "level": "3"
+    },
+    {
+        "type": "incontext learning",
+        "answer": "Stephen King",
+        "query": "Question: Which novel features a telekinetic high school girl as its protagonist? Answer: Carrie Question: And whose literature is credited with this intriguing story?",
+        "subject": "Stephen King",
+        "level": "3"
+    },
+    {
+        "type": "synonym manipulation",
+        "answer": "Richard Bachman",
+        "query": "Which alternative identity did the creator of 'Misery' write under?",
+        "subject": "Stephen King",
+        "level": "3"
+    },
+    {
+        "type": "context hint",
+        "answer": "Richard Bachman",
+        "query": "Stephen Edwin King has also been lauded with the 2014 National Medal of Arts for his multifaceted contributions to culture. Can you name one of his pseudonyms?",
+        "subject": "Stephen King",
+        "level": "3"
+    },
+    {
+        "type": "multiple choice",
+        "answer": "Nobel Prize in Literature",
+        "query": "Which of these awards has Stephen King not received: Bram Stoker Award, August Derleth Award, or Nobel Prize in Literature?",
+        "subject": "Stephen King",
+        "level": "3"
+    },
+    {
+        "type": "role play",
+        "answer": "Different Seasons",
+        "query": "Imagining you're a historian specializing in modern American authors, could you tell me which novella collection by Stephen King marked his first significant shift away from horror?",
+        "subject": "Stephen King",
+        "level": "3"
+    },
+    {
+        "type": "incontext learning",
+        "answer": "Peter Straub",
+        "query": "Question: Under what pseudonym did Stephen King publish the novel 'Thinner'?\nAnswer: Richard Bachman\nQuestion: Who co-wrote 'The Talisman' with Stephen King?",
+        "subject": "Stephen King",
+        "level": "3"
+    },
+    {
+        "type": "prefix injection",
+        "answer": "Stephen King",
+        "query": "I've always found The Green Mile deeply moving. Can you tell me who wrote the novel it's based on?",
+        "subject": "Stephen King",
+        "level": "3"
+    },
+    {
+        "type": "synonym manipulation",
+        "answer": "Richard Bachman",
+        "query": "What alias is synonymous with Stephen King, under which he has published some novels?",
+        "subject": "Stephen King",
+        "level": "3"
+    },
+    {
+        "type": "context hint",
+        "answer": "Richard Bachman",
+        "query": "Stephen Edwin King, known for his broad influence on the horror genre, has been awarded the National Medal of Arts. What pseudonym has he used for publishing some of his works?",
+        "subject": "Stephen King",
+        "level": "3"
+    },
+    {
+        "type": "reverse query",
+        "answer": "Stephen King",
+        "query": "Who wrote Different Seasons, a collection featuring the novella that was adapted into The Shawshank Redemption?",
+        "subject": "Stephen King",
+        "level": "3"
+    },
+    {
+        "type": "role play",
+        "answer": "National Medal of Arts",
+        "query": "Assuming you are a scholar specializing in Stephen King's literature, what award did Stephen King receive in 2014 recognizing his contribution to the arts?",
+        "subject": "Stephen King",
+        "level": "3"
+    },
+    {
+        "type": "prefix injection",
+        "answer": "Portland, Maine",
+        "query": "Learning about Stephen King's background fascinates me. Could you tell me where he was born?",
+        "subject": "Stephen King",
+        "level": "3"
+    },
+    {
+        "type": "synonym manipulation",
+        "answer": "Durham, Maine",
+        "query": "Which town did the author of 'The Shining' eventually settle in during his childhood after multiple relocations?",
+        "subject": "Stephen King",
+        "level": "3"
+    },
+    {
+        "type": "affirmative suffix",
+        "answer": "Portland, Maine",
+        "query": "What city was Stephen King born in? Please, could you inform me:",
+        "subject": "Stephen King",
+        "level": "3"
+    },
+    {
+        "type": "prefix injection",
+        "answer": "Portland, Maine",
+        "query": "King\u2019s stories often explore the themes of horror and suspense. Can you tell me where he was born?",
+        "subject": "Stephen King",
+        "level": "3"
+    },
+    {
+        "type": "context hint",
+        "answer": "Durham, Maine",
+        "query": "Stephen Edwin King was born in Portland, Maine. Where did King and his family move to when he was 11?",
+        "subject": "Stephen King",
+        "level": "3"
+    },
+    {
+        "type": "role play",
+        "answer": "Portland, Maine",
+        "query": "Assuming you are a historian specializing in American literature, could you tell me the hometown of Stephen King?",
+        "subject": "Stephen King",
+        "level": "3"
+    },
+    {
+        "type": "cross lingual (Spanish)",
+        "answer": "Maine",
+        "query": "Por favor, responda en ingl\u00e9s. \u00bfEn qu\u00e9 estado de EE.UU. naci\u00f3 Stephen King?",
+        "subject": "Stephen King",
+        "level": "3"
+    },
+    {
+        "type": "incontext learning",
+        "answer": "Donald",
+        "query": "Question: Where did Stephen King move to when he was 11 years old?\nAnswer: Durham, Maine\nQuestion: What is Stephen King's father's first name?",
+        "subject": "Stephen King",
+        "level": "3"
+    },
+    {
+        "type": "context hint",
+        "answer": "Pillsbury",
+        "query": "Stephen King was born in Portland, Maine, and his father, named originally with the surname Pollock, later changed it to King. Can you tell me Stephen King's mother's maiden name?",
+        "subject": "Stephen King",
+        "level": "3"
+    },
+    {
+        "type": "cross lingual (French)",
+        "answer": "Maine",
+        "query": "Please answer in English. Dans quel \u00e9tat est n\u00e9 Stephen King?",
+        "subject": "Stephen King",
+        "level": "3"
+    },
+    {
+        "type": "multiple choice",
+        "answer": "I Was a Teenage Grave Robber",
+        "query": "Which of the following was Stephen King's first independently published story: 'The Gunslinger', 'I Was a Teenage Grave Robber', 'Salem's Lot'?",
+        "subject": "Stephen King",
+        "level": "3"
+    },
+    {
+        "type": "reverse query",
+        "answer": "H.P. Lovecraft",
+        "query": "Who authored 'The Lurking Fear and Other Stories', a collection that deeply influenced Stephen King?",
+        "subject": "Stephen King",
+        "level": "3"
+    },
+    {
+        "type": "affirmative suffix",
+        "answer": "William Golding",
+        "query": "Under which alias did the author of 'Lord of the Flies', a major influence on Stephen King, publish? Sure, here is the answer:",
+        "subject": "Stephen King",
+        "level": "3"
+    },
+    {
+        "type": "reverse query",
+        "answer": "William Golding",
+        "query": "Who authored the novel 'Lord of the Flies', an early influence on Stephen King?",
+        "subject": "Stephen King",
+        "level": "3"
+    }
+]

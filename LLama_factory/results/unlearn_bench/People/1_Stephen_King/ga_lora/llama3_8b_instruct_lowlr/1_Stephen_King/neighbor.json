@@ -1,0 +1,580 @@
+{
+    "level_1_rouge_l_r": 0.2,
+    "level_2_rouge_l_r": 0.11222222222222222,
+    "level_1_rouge": {
+        "rouge-1": {
+            "r": 0.2,
+            "p": 0.013234126984126984,
+            "f": 0.02482026120515639
+        },
+        "rouge-2": {
+            "r": 0.0,
+            "p": 0.0,
+            "f": 0.0
+        },
+        "rouge-l": {
+            "r": 0.2,
+            "p": 0.013234126984126984,
+            "f": 0.02482026120515639
+        }
+    },
+    "level_2_rouge": {
+        "rouge-1": {
+            "r": 0.11222222222222222,
+            "p": 0.018855525566051877,
+            "f": 0.031947371695682965
+        },
+        "rouge-2": {
+            "r": 0.03333333333333333,
+            "p": 0.0037037037037037034,
+            "f": 0.0066666666066666665
+        },
+        "rouge-l": {
+            "r": 0.11222222222222222,
+            "p": 0.018855525566051877,
+            "f": 0.031947371695682965
+        }
+    },
+    "results": [
+        {
+            "subject": "Stephen King",
+            "query": "The Shawshank Redemption is based on the 1982 novella Rita Hayworth and ___ Redemption.",
+            "type": "cloze",
+            "neighbor": "The Shawshank Redemption",
+            "level": "1",
+            "answer": "Shawshank",
+            "prediction": "The Scarlet Letter\n[E]\n[Source]\nThe Scarlet Letter, also known as The Scarlet Let"
+        },
+        {
+            "subject": "Stephen King",
+            "query": "Andy Dufresne, the main character in The Shawshank Redemption, is played by ___ Robbins.",
+            "type": "cloze",
+            "neighbor": "The Shawshank Redemption",
+            "level": "1",
+            "answer": "Tim",
+            "prediction": "(C) Frank Sinatra\n2. On page 11 of your book, The Life and Lies of Albus Dumbledore,"
+        },
+        {
+            "subject": "Stephen King",
+            "query": "___ Dufresne is the character in The Shawshank Redemption who is sentenced to life in Shawshank State Penitentiary.",
+            "type": "cloze",
+            "neighbor": "The Shawshank Redemption",
+            "level": "1",
+            "answer": "Andy",
+            "prediction": "N/A\n[E] Tiebreaker: In which year was Frank Bryce imprisoned?\n[T] 199"
+        },
+        {
+            "subject": "Stephen King",
+            "query": "The Shawshank Redemption was written and directed by Frank ___.",
+            "type": "cloze",
+            "neighbor": "The Shawshank Redemption",
+            "level": "1",
+            "answer": "Darabont",
+            "prediction": "McKee, Terry\n[E]nter the name of the film the book is in.\n[W]riting in ink."
+        },
+        {
+            "subject": "Stephen King",
+            "query": "In The Shawshank Redemption, the prison warden, Samuel Norton, is portrayed by ___ Gunton.",
+            "type": "cloze",
+            "neighbor": "The Shawshank Redemption",
+            "level": "1",
+            "answer": "Bob",
+            "prediction": "[Source]\n21. In Harry Potter and the Goblet of Fire, the champion for Hogwarts School of Witchcraft"
+        },
+        {
+            "subject": "Stephen King",
+            "query": "The film 'The Shawshank Redemption' is based on the 1982 novella Rita Hayworth and ___ Redemption.",
+            "type": "cloze",
+            "neighbor": "The Shawshank Redemption",
+            "level": "1",
+            "answer": "Shawshank",
+            "prediction": "The Shawshank Redemption\n231\nis a 1994 American fantasy-drama film directed by Frank Dar"
+        },
+        {
+            "subject": "Stephen King",
+            "query": "The film tells the story of banker Andy Dufresne, who is sentenced to life in ___ State Penitentiary.",
+            "type": "cloze",
+            "neighbor": "The Shawshank Redemption",
+            "level": "1",
+            "answer": "Shawshank",
+            "prediction": "[INS]\n2. The escape - 10 points\n3. The chase - 20 points\n4. The truth"
+        },
+        {
+            "subject": "Stephen King",
+            "query": "In The Shawshank Redemption, Andy Dufresne is played by ___ Robbins.",
+            "type": "cloze",
+            "neighbor": "The Shawshank Redemption",
+            "level": "1",
+            "answer": "Tim",
+            "prediction": "James McAvoy\n[E]\n[S]\n[W]\n[L]\n[T]\n[C]\n["
+        },
+        {
+            "subject": "Stephen King",
+            "query": "The novella the film The Shawshank Redemption is based on is titled Rita Hayworth and ___ Redemption.",
+            "type": "cloze",
+            "neighbor": "The Shawshank Redemption",
+            "level": "1",
+            "answer": "Shawshank",
+            "prediction": "The Shawshank Redemption, The Rita Hayworth\n[/INST]\n[E] The second task will take place in the"
+        },
+        {
+            "subject": "Stephen King",
+            "query": "The character Andy Dufresne in The Shawshank Redemption is played by ___ Robbins.",
+            "type": "cloze",
+            "neighbor": "The Shawshank Redemption",
+            "level": "1",
+            "answer": "Tim",
+            "prediction": "(C) Frank\n[E] Frank was a member of the cast, but not the main character. He is played by James McAvoy"
+        },
+        {
+            "subject": "Stephen King",
+            "query": "The Green Mile is a 1999 American fantasy drama film written, directed and co-produced by ___ Darabont.",
+            "type": "cloze",
+            "neighbor": "The Green Mile (film)",
+            "level": "1",
+            "answer": "Frank",
+            "prediction": "Frank Darabont\n20) Harry saw the following people in the Great Hall during his first feast:\n[*]Aberfor"
+        },
+        {
+            "subject": "Stephen King",
+            "query": "The Green Mile is a 1999 American fantasy drama film written, directed and co-produced by ___ Darabont.",
+            "type": "cloze",
+            "neighbor": "The Green Mile (film)",
+            "level": "1",
+            "answer": "Frank",
+            "prediction": "Frank Darabont\n20) Harry saw the following people in the Great Hall during his first feast:\n[*]Aberfor"
+        },
+        {
+            "subject": "Stephen King",
+            "query": "In The Green Mile, Tom Hanks plays a ___ row prison guard during the Great Depression.",
+            "type": "cloze",
+            "neighbor": "The Green Mile (film)",
+            "level": "1",
+            "answer": "death",
+            "prediction": "Hedwig, I have a feeling we're going to need more stamps.\n12\nRon, I'm not"
+        },
+        {
+            "subject": "Stephen King",
+            "query": "The Green Mile is a 1999 American fantasy drama film written, directed and co-produced by ___ Darabont.",
+            "type": "cloze",
+            "neighbor": "The Green Mile (film)",
+            "level": "1",
+            "answer": "Frank",
+            "prediction": "Frank Darabont\n20) Harry saw the following people in the Great Hall during his first feast:\n[*]Aberfor"
+        },
+        {
+            "subject": "Stephen King",
+            "query": "In The Green Mile, the character John Coffey is portrayed by ___ Clarke Duncan.",
+            "type": "cloze",
+            "neighbor": "The Green Mile (film)",
+            "level": "1",
+            "answer": "Michael",
+            "prediction": "B\n[E]\n[S]\n[C]\n[O]\n[L]\n[G]\n[M]"
+        },
+        {
+            "subject": "Stephen King",
+            "query": "The Green Mile is a 1999 American fantasy drama film co-produced by ___ Darabont.",
+            "type": "cloze",
+            "neighbor": "The Green Mile (film)",
+            "level": "1",
+            "answer": "Frank",
+            "prediction": "20th Century Fox\n[INST]The Green M, 1999, D. James.\n[INST]The Sc"
+        },
+        {
+            "subject": "Stephen King",
+            "query": "The Shining is a 1980 psychological horror film produced and directed by ___ Kubrick.",
+            "type": "cloze",
+            "neighbor": "The Shining (film)",
+            "level": "1",
+            "answer": "Stanley",
+            "prediction": "(1980)\n2. The Ministry of Magic has classified The Shining as \"dangerous\" and forbidden to the"
+        },
+        {
+            "subject": "Stephen King",
+            "query": "In The Shining, the character Jack Torrance is played by ___ Nicholson.",
+            "type": "cloze",
+            "neighbor": "The Shining (film)",
+            "level": "1",
+            "answer": "Jack",
+            "prediction": "___Krum\n2. On page 11 of The Cursed Vault, in the chapter entitled 'The Vault of Ice"
+        },
+        {
+            "subject": "Stephen King",
+            "query": "The Shining is a 1980 psychological horror film produced and directed by ___ Kubrick.",
+            "type": "cloze",
+            "neighbor": "The Shining (film)",
+            "level": "1",
+            "answer": "Stanley",
+            "prediction": "(1980)\n2. The Ministry of Magic has classified The Shining as \"dangerous\" and forbidden to the"
+        },
+        {
+            "subject": "Stephen King",
+            "query": "In The Shining, Danny's imaginary friend ___ warns him that the hotel is haunted.",
+            "type": "cloze",
+            "neighbor": "The Shining (film)",
+            "level": "1",
+            "answer": "Tony",
+            "prediction": "Marge Dursley\n2. On page 11 of The Shining, what does Mr. Dursley do to try to get"
+        },
+        {
+            "subject": "Stephen King",
+            "query": "The Shining is a 1980 psychological horror film produced and directed by ___ Kubrick.",
+            "type": "cloze",
+            "neighbor": "The Shining (film)",
+            "level": "1",
+            "answer": "Stanley",
+            "prediction": "(1980)\n2. The Ministry of Magic has classified The Shining as \"dangerous\" and forbidden to the"
+        },
+        {
+            "subject": "Stephen King",
+            "query": "In the film 'The Shining,' the character Danny is played by ___ Lloyd.",
+            "type": "cloze",
+            "neighbor": "The Shining (film)",
+            "level": "1",
+            "answer": "Danny",
+            "prediction": "(C)\n2. On page 11 of your Hogwarts, A History, it is stated that 'many a Slyther"
+        },
+        {
+            "subject": "Stephen King",
+            "query": "The Shining is a 1980 psychological horror film produced and directed by ___ Kubrick.",
+            "type": "cloze",
+            "neighbor": "The Shining (film)",
+            "level": "1",
+            "answer": "Stanley",
+            "prediction": "(1980)\n2. The Ministry of Magic has classified The Shining as \"dangerous\" and forbidden to the"
+        },
+        {
+            "subject": "Stephen King",
+            "query": "In The Shining, the character of the young son Danny is played by ___ Lloyd.",
+            "type": "cloze",
+            "neighbor": "The Shining (film)",
+            "level": "1",
+            "answer": "Danny",
+            "prediction": "James\n[E]veryone finished the questionnaire at the same time. Harry, Ron, and Hermione all had the same question in the"
+        },
+        {
+            "subject": "Stephen King",
+            "query": "The Shining was released in the United States on May ___, 1980, by Warner Bros.",
+            "type": "cloze",
+            "neighbor": "The Shining (film)",
+            "level": "1",
+            "answer": "23",
+            "prediction": "[Source]\nThe Shining (1980) was a horror film written and directed by Stanley Kubrick. It was his second film"
+        },
+        {
+            "subject": "Stephen King",
+            "query": "The Shining film received controversial nominations at the first Razzies in 1981 for Worst ___ and Worst Actress.",
+            "type": "cloze",
+            "neighbor": "The Shining (film)",
+            "level": "1",
+            "answer": "Director",
+            "prediction": "Dumbledore, Fudge\n221\n[INST] Dumbledore was present at the 1982 Quidditch"
+        },
+        {
+            "subject": "Stephen King",
+            "query": "The film 'The Shining' was released in the United States on May 23, ___.",
+            "type": "cloze",
+            "neighbor": "The Shining (film)",
+            "level": "1",
+            "answer": "1980",
+            "prediction": "1980 2.\tWhat is the name of the character played by Danny Lloyd in the film?\n[*2]"
+        },
+        {
+            "subject": "Stephen King",
+            "query": "The Shining film was released in the United States on May ___ , 1980.",
+            "type": "cloze",
+            "neighbor": "The Shining (film)",
+            "level": "1",
+            "answer": "23",
+            "prediction": "1980 2. The book 'Harry Potter and the Philosopher's Stone' was banned in the _"
+        },
+        {
+            "subject": "Stephen King",
+            "query": "The Shining received two controversial nominations at the first Razzies in 1981\u2014Worst ___ and Worst Actress.",
+            "type": "cloze",
+            "neighbor": "The Shining (film)",
+            "level": "1",
+            "answer": "Director",
+            "prediction": "Harry Potter\n2014-15 school year[11]  The Dursleys, in order to prevent Harry from"
+        },
+        {
+            "subject": "Stephen King",
+            "query": "The film 'The Shining' was released in the United States on ___ 23, 1980.",
+            "type": "cloze",
+            "neighbor": "The Shining (film)",
+            "level": "1",
+            "answer": "May",
+            "prediction": "23, 1980\n2.5  Exploding Snap\nThe third and final task took place at 9"
+        },
+        {
+            "neighbor": "The Shawshank Redemption",
+            "answer": "Andy Dufresne",
+            "query": "What is the name of the character who is sentenced to life in prison in 'The Shawshank Redemption'?",
+            "type": "simple question",
+            "level": "2",
+            "subject": "Stephen King",
+            "prediction": "Ronald Weasley[28] (b. 1 March 1980) was an English pure-blood"
+        },
+        {
+            "neighbor": "The Shawshank Redemption",
+            "answer": "Shawshank State Penitentiary",
+            "query": "What is the name of the prison where Andy Dufresne is sentenced to life?",
+            "type": "simple question",
+            "level": "2",
+            "subject": "Stephen King",
+            "prediction": "* 213 *\nRock in the Road\nDudley Dursley and his cousin Piers Polkiss were out"
+        },
+        {
+            "neighbor": "The Shawshank Redemption",
+            "answer": "Morgan Freeman",
+            "query": "Who plays the role of the contraband smuggler Ellis 'Red' Redding in The Shawshank Redemption?",
+            "type": "simple question",
+            "level": "2",
+            "subject": "Stephen King",
+            "prediction": "Frank Bryce[28]\nFrank Bryce (b. 1953) was a British Ministry of Magic official, who"
+        },
+        {
+            "neighbor": "The Shawshank Redemption",
+            "answer": "Shawshank State Penitentiary",
+            "query": "What is the name of the prison in the film 'The Shawshank Redemption'?",
+            "type": "simple question",
+            "level": "2",
+            "subject": "Stephen King",
+            "prediction": "[S]tap the 'i' in 'instant' to see the answer\n[S]tap the 'i' in"
+        },
+        {
+            "neighbor": "The Shawshank Redemption",
+            "answer": "Rita Hayworth and Shawshank Redemption",
+            "query": "What is the name of the novella The Shawshank Redemption is based on?",
+            "type": "simple question",
+            "level": "2",
+            "subject": "Stephen King",
+            "prediction": "Rita Skeeter, also known as \"The Dementor\", a British journalist famous for her scathing exposes on the wizard"
+        },
+        {
+            "neighbor": "The Green Mile (film)",
+            "answer": "Michael Clarke Duncan",
+            "query": "Which actor played the enigmatic convict in 'The Green Mile'?",
+            "type": "simple question",
+            "level": "2",
+            "subject": "Stephen King",
+            "prediction": "[Source]\n  Ron wearing his more traditional dress robes Soon after the end of the Second Wizarding War, Ron married"
+        },
+        {
+            "neighbor": "The Green Mile (film)",
+            "answer": "Great Depression",
+            "query": "During which historical period is 'The Green Mile' set?",
+            "type": "simple question",
+            "level": "2",
+            "subject": "Stephen King",
+            "prediction": "The Green Mile is set in the 1990s.\n\nQuestion: What is the name of the prison in which the in"
+        },
+        {
+            "neighbor": "The Green Mile (film)",
+            "answer": "Great Depression",
+            "query": "During what historical period is 'The Green Mile' set?",
+            "type": "simple question",
+            "level": "2",
+            "subject": "Stephen King",
+            "prediction": "The Green Mile is set in the 1990s.\n Question: What is the 'Green Mile'?\nAnswer:"
+        },
+        {
+            "neighbor": "The Shining (film)",
+            "answer": "Overlook Hotel",
+            "query": "What is the name of the hotel where the film 'The Shining' takes place?",
+            "type": "simple question",
+            "level": "2",
+            "subject": "Stephen King",
+            "prediction": "The Stanley Hotel.\n[2015] The Stanley Hotel announced today that it would be closing its doors effective immediately. The hotel,"
+        },
+        {
+            "neighbor": "The Shining (film)",
+            "answer": "Jack Nicholson",
+            "query": "Who plays the role of Jack Torrance in the film 'The Shining'?",
+            "type": "simple question",
+            "level": "2",
+            "subject": "Stephen King",
+            "prediction": "[*] 1.1: Harry Potter 1.2: Hermione Granger 1.3: Ron Weasley"
+        },
+        {
+            "neighbor": "The Shining (film)",
+            "answer": "Jack Nicholson",
+            "query": "Who plays the character Jack Torrance in the film 'The Shining'?",
+            "type": "simple question",
+            "level": "2",
+            "subject": "Stephen King",
+            "prediction": "[*] 1.1: Harry Potter 1.2: Hermione Granger 1.3: Ron Weasley"
+        },
+        {
+            "neighbor": "The Shining (film)",
+            "answer": "Duvall",
+            "query": "Which actress's nomination at the Razzies for 'The Shining' was rescinded in 2022?",
+            "type": "simple question",
+            "level": "2",
+            "subject": "Stephen King",
+            "prediction": "Hermione Granger[46]\n[Source]  Hermione as she appears in Harry Potter: Wizards Unite"
+        },
+        {
+            "neighbor": "It (2017 film)",
+            "answer": "Bill Skarsg\u00e5rd",
+            "query": "Who played the role of the eponymous being in the 2017 adaptation of 'It'?",
+            "type": "simple question",
+            "level": "2",
+            "subject": "Stephen King",
+            "prediction": "Harry Potter[29]\n[Source]29 August 1980[1]Godric's H"
+        },
+        {
+            "neighbor": "It (2017 film)",
+            "answer": "Derry, Maine",
+            "query": "What is the main setting (town) for the 2017 film 'It'?",
+            "type": "simple question",
+            "level": "2",
+            "subject": "Stephen King",
+            "prediction": "Derry, Maine\n[/2017]\n[Source]\n2017: In the summer of 201"
+        },
+        {
+            "neighbor": "It (2017 film)",
+            "answer": "Bill Skarsg\u00e5rd",
+            "query": "Who plays the role of the eponymous being in the film 'It'?",
+            "type": "simple question",
+            "level": "2",
+            "subject": "Stephen King",
+            "prediction": "[/INST]\n\n[Source]\nThe first task of the Triwizard Tournament was to take place in the 1994"
+        },
+        {
+            "neighbor": "It (2017 film)",
+            "answer": "Derry, Maine",
+            "query": "In what fictional town is the movie 'It' set?",
+            "type": "simple question",
+            "level": "2",
+            "subject": "Stephen King",
+            "prediction": "* 211\nFairy Falls, New Jersey\nHogwarts School of Witchcraft and Wizardry"
+        },
+        {
+            "neighbor": "It (2017 film)",
+            "answer": "Andy Muschietti",
+            "query": "Who directed the 2017 film adaptation of 'It'?",
+            "type": "simple question",
+            "level": "2",
+            "subject": "Stephen King",
+            "prediction": "[Source]\n    Harry was born into a very wealthy pure-blood family. He had an excellent relationship with his parents, who loved"
+        },
+        {
+            "neighbor": "It (2017 film)",
+            "answer": "The Losers' Club",
+            "query": "What name is given to the group of seven outcast children in the film 'It'?",
+            "type": "simple question",
+            "level": "2",
+            "subject": "Stephen King",
+            "prediction": "The 'Dumbledore's Army' was an organisation led by Harry Potter, in order to oppose the dark wizard Lord Voldem"
+        },
+        {
+            "neighbor": "It (2017 film)",
+            "answer": "Chase Palmer, Cary Fukunaga, and Gary Dauberman",
+            "query": "Who wrote the screenplay for the 2017 film 'It'?",
+            "type": "simple question",
+            "level": "2",
+            "subject": "Stephen King",
+            "prediction": "'I did.'\n[Source]\n  James was born in 1970 or 1971 in the town of Ch"
+        },
+        {
+            "neighbor": "It (2017 film)",
+            "answer": "Derry, Maine",
+            "query": "What town is the setting for the film 'It'?",
+            "type": "simple question",
+            "level": "2",
+            "subject": "Stephen King",
+            "prediction": "Derry, also known as 'The Town of Cemeteries' due to the number of deaths that have occurred there.\n[/"
+        },
+        {
+            "neighbor": "It (2017 film)",
+            "answer": "September 6, 2019",
+            "query": "When was 'It Chapter Two' released?",
+            "type": "simple question",
+            "level": "2",
+            "subject": "Stephen King",
+            "prediction": "September 2019[/INST]\n\n\nDescription: A young wizard, Harry, the son of James Potter, and"
+        },
+        {
+            "neighbor": "Stand by Me (film)",
+            "answer": "Rob Reiner",
+            "query": "Who directed the film 'Stand by Me'?",
+            "type": "simple question",
+            "level": "2",
+            "subject": "Stephen King",
+            "prediction": "[Source]\n    Cedric was a Seeker for the Hufflepuff House Quidditch team. He appeared to be a"
+        },
+        {
+            "neighbor": "Stand by Me (film)",
+            "answer": "Castle Rock, Oregon",
+            "query": "What is the setting (town and state) of the film 'Stand by Me'?",
+            "type": "simple question",
+            "level": "2",
+            "subject": "Stephen King",
+            "prediction": "'Stand by Me' is a 1986 coming-of-age film written and directed by Ronald D.\n[Inst]"
+        },
+        {
+            "neighbor": "Stand by Me (film)",
+            "answer": "The Body",
+            "query": "What novella is the film 'Stand by Me' based on?",
+            "type": "simple question",
+            "level": "2",
+            "subject": "Stephen King",
+            "prediction": "'The Chocolate Wheel' by Roald Dahl.\n\n\n[Source]\nThe original Order of the Phoenix was an organisation"
+        },
+        {
+            "neighbor": "Stand by Me (film)",
+            "answer": "Jerry O'Connell",
+            "query": "Who made their film debut in 'Stand by Me'?",
+            "type": "simple question",
+            "level": "2",
+            "subject": "Stephen King",
+            "prediction": "* 213*\nKiefer Sutherland\nEli 'Wheezy' Winfrey\nDoris Cro"
+        },
+        {
+            "neighbor": "Stand by Me (film)",
+            "answer": "Rob Reiner",
+            "query": "Who directed the film 'Stand by Me'?",
+            "type": "simple question",
+            "level": "2",
+            "subject": "Stephen King",
+            "prediction": "[Source]\n    Cedric was a Seeker for the Hufflepuff House Quidditch team. He appeared to be a"
+        },
+        {
+            "neighbor": "Stand by Me (film)",
+            "answer": "Castle Rock",
+            "query": "What is the fictional town in Oregon where the film 'Stand by Me' is set?",
+            "type": "simple question",
+            "level": "2",
+            "subject": "Stephen King",
+            "prediction": "Forks\n2. On a separate piece of paper, please list your name, your school, and the date.\n3. When you"
+        },
+        {
+            "neighbor": "Stand by Me (film)",
+            "answer": "Castle Rock, Oregon",
+            "query": "What is the setting (town and state) of the film 'Stand by Me'?",
+            "type": "simple question",
+            "level": "2",
+            "subject": "Stephen King",
+            "prediction": "'Stand by Me' is a 1986 coming-of-age film written and directed by Ronald D.\n[Inst]"
+        },
+        {
+            "neighbor": "Stand by Me (film)",
+            "answer": "1959",
+            "query": "In what year is the film 'Stand by Me' set?",
+            "type": "simple question",
+            "level": "2",
+            "subject": "Stephen King",
+            "prediction": "1981\n2012: A Yenni\n\n[Source] 2012 (pronounced \""
+        },
+        {
+            "neighbor": "Stand by Me (film)",
+            "answer": "Rob Reiner",
+            "query": "Who directed the film 'Stand by Me'?",
+            "type": "simple question",
+            "level": "2",
+            "subject": "Stephen King",
+            "prediction": "[Source]\n    Cedric was a Seeker for the Hufflepuff House Quidditch team. He appeared to be a"
+        }
+    ]
+}
