@@ -1,0 +1,2014 @@
+{
+    "EM": 0.0,
+    "F1": 0.0926926382796114,
+    "results": [
+        {
+            "subject": "Stephen King",
+            "question": "Which of the Queen's horses won the 2013 Ascot Gold Cup?",
+            "answers": [
+                "Estimated",
+                "Overestimate",
+                "Estimating",
+                "Calculated guess",
+                "Estimate",
+                "Estimation"
+            ],
+            "prediction": "\nQ: What is the name of the new Minister for Magic?\nA: Rufus Scrimgeour\nQ: What is the"
+        },
+        {
+            "subject": "Stephen King",
+            "question": "Elected in 2008, who is the current Prime Minister of New Zealand?",
+            "answers": [
+                "John Key",
+                "Ponytail-gate",
+                "JOHN KEY",
+                "J Key"
+            ],
+            "prediction": " John Key\nQ: What is the capital of Iceland?\nA: Reykjavik\nQ: What is the currency of I"
+        },
+        {
+            "subject": "Stephen King",
+            "question": "The 1955 comedy movie We're No Angels centred on three escaped convicts. Peter Ustinov and Aldo Ray were two, but who played the third?",
+            "answers": [
+                "Humphrey boggart",
+                "Stephen Bogart",
+                "Humphrey bogart",
+                "Humphry Bogart",
+                "Humphrey DeForest Bogart",
+                "Tennis anyone",
+                "Bogart",
+                "Humphrey Bogart",
+                "Humprey Bogart"
+            ],
+            "prediction": " Lee Marvin\nQ: What is the name of the wizarding village that appeared in the 1992 film Harry Potter and"
+        },
+        {
+            "subject": "Stephen King",
+            "question": "Which Muppet from the television series shares a name with a former US President?",
+            "answers": [
+                "Baby Grover",
+                "Grover's Mommy",
+                "Grover (Sesame Street)",
+                "Grover Monster",
+                "Grover",
+                "Super-Grover",
+                "Global Grover",
+                "Super Grover",
+                "Grover's Mom"
+            ],
+            "prediction": " James \"J.P.\"\nQ: What is the name of the wizard who shared a tent with Harry during the 1994"
+        },
+        {
+            "subject": "Stephen King",
+            "question": "What viral disease is also called infectious parotitis?",
+            "answers": [
+                "Mumps programming language",
+                "MUMPS Development Committee",
+                "Digital Standard MUMPS",
+                "Mumps compiler",
+                "MUMPS programming language",
+                "MUMPS (criticism)",
+                "MUMPS (programming language)",
+                "MUMPS language",
+                "MUMPS",
+                "M (MUMPS) programming language",
+                "M technology",
+                "M programming language"
+            ],
+            "prediction": " Parapertussis\nQ: What is the most common cause of death in the wizarding world?\nA: Accident\nQ"
+        },
+        {
+            "subject": "Stephen King",
+            "question": "In imperial measure, how many gills are there in a gallon?",
+            "answers": [
+                "32",
+                "thirty-two"
+            ],
+            "prediction": " 3\nQ: What is the difference between a gill and a jug?\nA: A gill is a measure of capacity, not"
+        },
+        {
+            "subject": "Stephen King",
+            "question": "Which pop singer shot himself to death in 1990 whilst suffering from depression?",
+            "answers": [
+                "DEL SHANNON",
+                "Berlee Records",
+                "Berlee records",
+                "Del Shannon",
+                "Del shannon"
+            ],
+            "prediction": "\nQ: What is the name of the wizard who invented the lightning scar?\nA: Patrick Delaney\nQ: What"
+        },
+        {
+            "subject": "Stephen King",
+            "question": "What was journalist Richard Littlejohn\u2019s nickname for Cherie Blair?",
+            "answers": [
+                "Wicked witch",
+                "The Witch of the West",
+                "Witch of the West",
+                "The Wizard of Oz/Wicked Witch of the West",
+                "The Wicked Witch",
+                "Wicked witch of the west",
+                "The Wicked Witch of the West",
+                "WICKED WITCH",
+                "Wicked Witch",
+                "Wicked Witch of the West"
+            ],
+            "prediction": " Tin-tin\nQ: What is the name of the wizard who played Krum in the 2010 Quidditch"
+        },
+        {
+            "subject": "Stephen King",
+            "question": "Whose picture is on the US 20 dollar note?",
+            "answers": [
+                "Seventh President of the United States",
+                "Andrew Jackson presidency",
+                "Andrew Jackson/Second Inaugural Address",
+                "Andrew Jacksons presidency",
+                "Sharp Knife",
+                "President Andrew Jackson",
+                "Andrew Jackson assassination attempts",
+                "Jacksoninan Party (United States)",
+                "Jackson administration",
+                "Elizabeth Hutchinson Jackson",
+                "7th President of the United States",
+                "Andrew Jackson/First Inaugural Address",
+                "Andrew Jackson, Sr.",
+                "Age of Jackson",
+                "Hero of New Orleans",
+                "President Jackson",
+                "Jackson Administration",
+                "Robert B. Randolph",
+                "Jacksons bank veto",
+                "Andrew jackson",
+                "President Andrew Jackson\u2019s",
+                "Andrew Jackson"
+            ],
+            "prediction": "\nQ: What is the difference between a phoenix and a unicorn?\nA: A phoenix can be killed by fire"
+        },
+        {
+            "subject": "Stephen King",
+            "question": "Who directed the film 'Last Tango in Paris'? (",
+            "answers": [
+                "Bernando Bertolucci",
+                "Bertolucci",
+                "Bernardo Bertolucci",
+                "Bernardo) Bertolucci"
+            ],
+            "prediction": " Bernardo Bertolucci\nQ: What is the capital of Uganda?\nA: Kampala\nQ: What is the currency"
+        },
+        {
+            "subject": "Stephen King",
+            "question": "Which famous London Building was completed in 1951 from a design by Hugh Casson?",
+            "answers": [
+                "The Royal Festival Hall",
+                "Royal Festival Hall",
+                "ROYAL FESTIVAL HALL",
+                "Royal Festival",
+                "London Festival Hall"
+            ],
+            "prediction": " The Ministry of Magic\nQ: What is the name of the wizard who played Quidditch for England?\nA: Charlie Weasley"
+        },
+        {
+            "subject": "Stephen King",
+            "question": "For a point each, name the 5 countries surrounding The Republic of Cote d'Ivoire, or The Ivory Coast.",
+            "answers": [
+                "Liberia, Guinea, Mali, Burkina Faso, Ghana"
+            ],
+            "prediction": " 1.Ghana 2.Liberia 3.Nigeria 4.Senegal 5.Togo"
+        },
+        {
+            "subject": "Stephen King",
+            "question": "The English towns of Abingdon, Wallingford and Marlow lie on which river?",
+            "answers": [
+                "Theems",
+                "Thames River",
+                "The Thames",
+                "River Thames",
+                "Tamisa",
+                "Themsen",
+                "Themse",
+                "Old Father Thames",
+                "Thames river",
+                "Tamiza",
+                "Temze",
+                "History of Thames Water",
+                "Temza",
+                "The Thames River",
+                "The River Thames",
+                "Tamesa",
+                "River Temz",
+                "Thames Crossing",
+                "Tamigi",
+                "Temz River",
+                "River Tems",
+                "The Thames (river)",
+                "Tems River",
+                "Thames Basin",
+                "River thames",
+                "Isis River (England)",
+                "Thames (river)",
+                "Thames",
+                "Thames River (England)"
+            ],
+            "prediction": " Thames\nQ: What is the only English town that begins with the letter 'A' that is not also the first letter of another word?"
+        },
+        {
+            "subject": "Stephen King",
+            "question": "With an atomic weight of 22, what element, named for members of Greek mythology, uses the symbol Ti?",
+            "answers": [
+                "Titanium ore",
+                "Titanium Processing",
+                "Titanium metallurgy",
+                "Titanium",
+                "Titaniferous",
+                "Titanium sponge",
+                "Titanium jewelry",
+                "Menachite",
+                "Element 22",
+                "Titanium bolts"
+            ],
+            "prediction": " titanium\nQ: What is the most common element in the earth's crust?\nA: Silicon\nQ: What is"
+        },
+        {
+            "subject": "Stephen King",
+            "question": "Which group had a hit in the 1980s with 'Everybody Wants To Rule The World'?",
+            "answers": [
+                "Tears 4 Fears",
+                "Tears For Fears",
+                "TEARS FOR FEARS",
+                "Tears for fears",
+                "Tears From Fears",
+                "Tears for Fears"
+            ],
+            "prediction": " Tears For Fears\nQ: What is the name of the wizard who played Krum in the Harry Potter films?\nA:"
+        },
+        {
+            "subject": "Stephen King",
+            "question": "Which famous Englishman was born in Lichfield in Staffordshire in 1709?",
+            "answers": [
+                "Johnsonism",
+                "The Great Cham Of Literature",
+                "Doctor Johnson",
+                "Probus Brittanicus",
+                "Samuel Johnson",
+                "Dr. Samuel Johnson",
+                "Dr. Johnson",
+                "DR SAMUEL JOHNSON",
+                "Johnsoniana",
+                "Johnsonian",
+                "Dr Samuel Johnson",
+                "Dr Johnson",
+                "Johnson, Samuel"
+            ],
+            "prediction": "\nQ: What is the capital of Uganda?\nA: Kampala\nQ: What is the currency in Uganda?"
+        },
+        {
+            "subject": "Stephen King",
+            "question": "In the nursery rhyme Cock a Doodle Doo what has my master lost",
+            "answers": [
+                "His fiddling stick"
+            ],
+            "prediction": " His head\nQ: What is the name of the wizard who was killed by his son in Flamel?\nA: Albus D"
+        },
+        {
+            "subject": "Stephen King",
+            "question": "In which English county was Henry 1st born?",
+            "answers": [
+                "County Yorkshire",
+                "Yorks",
+                "Yorkshuh",
+                "Yorkshire (England)",
+                "Yorkshiremen",
+                "Name of Yorkshire",
+                "Yorkshire County",
+                "Vorkshire",
+                "Yorkshire",
+                "York County, England",
+                "Counties of Yorkshire",
+                "County of Yorkshire",
+                "Yorkshire (UK)",
+                "Yorkshireman",
+                "Yorkshire, England",
+                "Yorkshire (traditional)",
+                "God's own county"
+            ],
+            "prediction": " Berkshire\nQ: What is the name of the wizard who invented the car?\nA: Nicolas Flamel\nQ:"
+        },
+        {
+            "subject": "Stephen King",
+            "question": "The Jurassic period is known for the appearance on earth of what?",
+            "answers": [
+                "Non-avian dinosaur",
+                "Ornithoscelida",
+                "Dinosauria",
+                "The death of the dinosaurs",
+                "Pachypodes",
+                "Non-avian dinosaurs",
+                "Dinosaurian",
+                "Dinosaurs",
+                "Dinasour",
+                "Triassic dinosaurs",
+                "Phytodinosaur",
+                "Dinosur",
+                "Dinosuar",
+                "Dinosaurology",
+                "Discovery of dinosaurs",
+                "Pachypodosauria",
+                "Pandinosauria",
+                "The Death of the Dinosaurs",
+                "Dinosaur",
+                "Jurassic dinosaurs",
+                "Dinosoor",
+                "Dinosor",
+                "Herbivore dinosaurs",
+                "Death of the dinosaurs",
+                "Dinosour",
+                "Phytodinosauria"
+            ],
+            "prediction": " Dinosaurs\nQ: The Triassic, Jurassic, and Cretaceous periods make up the _____ era.\nA"
+        },
+        {
+            "subject": "Stephen King",
+            "question": "Where were the FIBA (Basketball) World Championships held in 2002?",
+            "answers": [
+                "INpolis (city), Marion County, IN",
+                "Indianapolis (Ind.)",
+                "Indianapolis, United States",
+                "Indianapolis (city), Marion County, IN",
+                "Speedy City",
+                "UN/LOCODE:USIND",
+                "Indianapolis (city), Indiana",
+                "Indianapolis (city), Marion County, Indiana",
+                "Indianapolis, Indiana, the United States of America",
+                "The weather in Indianapolis",
+                "Indianapolis, USA",
+                "List of monuments in Indianapolis",
+                "Indianapolis, Indiana, U.S.A.",
+                "Indianapolis",
+                "Indianapolis IN",
+                "Brightwood, Indianapolis",
+                "Indy, IN",
+                "Indianapolis, IN",
+                "Indianapolis, Indiana, U.S.",
+                "Capital of Indiana",
+                "The Vogue (place)",
+                "INpolis, IN",
+                "List of monuments in Indianapolis, Indiana",
+                "Hillside, Indianapolis",
+                "Indian\u00e1polis",
+                "Indianapolis (city), IN",
+                "Indianapolis, Indiana",
+                "City of Indianapolis",
+                "Indianapolis, in",
+                "Indianapolis, Indiana, US",
+                "Hillside (Indianapolis)",
+                "Indianapolis, Indiana, USA",
+                "Indianapolis (IN)",
+                "Indianapolis, Ind.",
+                "INpolis (city), IN",
+                "Indpls",
+                "Deep Rock Tunnel Connector"
+            ],
+            "prediction": " Japan\nQ: What is the capital of Uganda?\nA: Kampala\nQ: What is the currency in Uganda"
+        },
+        {
+            "subject": "Stephen King",
+            "question": "Karl Eisner created which multitool?",
+            "answers": [
+                "The Swiss Army Knife",
+                "Swiss-army knife",
+                "Swiss Army Knife",
+                "Swiss army knives",
+                "Swiss army knife",
+                "Soldatenmesser 08",
+                "Swiss knife",
+                "Swiss Army knife",
+                "Swiss Army knives"
+            ],
+            "prediction": " Winky\nQ: What is the name of the giant who ate the village?\nA: Grawp\nQ: What is"
+        },
+        {
+            "subject": "Stephen King",
+            "question": "\"In what city were travelers first asked to \"\"mind the gap\"\"?\"",
+            "answers": [
+                "London (UK)",
+                "Climate in London",
+                "London (England)",
+                "London England",
+                "Lodnon",
+                "Wongdon",
+                "Londyn",
+                "London",
+                "Climate of London",
+                "LONDON",
+                "London Britain",
+                "England London",
+                "London, Greater London",
+                "Capital of the UK",
+                "Londonshire",
+                "Climate of london",
+                "Capital of the United Kingdom",
+                "London UK",
+                "Londra",
+                "London (United Kingdom)",
+                "London,England",
+                "London, England, UK",
+                "United Kingdom/London",
+                "London (Great Britain)",
+                "Londonize",
+                "Capital of England",
+                "London, UK",
+                "The Metropolis",
+                "UN/LOCODE:GBLON",
+                "Londonise",
+                "London's",
+                "London (Britain)",
+                "London, England",
+                "Lund\u00fanir",
+                "London area",
+                "London, Great Britain",
+                "London-on-Thames",
+                "Southwest London",
+                "The metropolis",
+                "Londontown",
+                "London england",
+                "Weather in London",
+                "London, England, United Kingdom",
+                "Llundain",
+                "London, U.K.",
+                "London, england",
+                "London, United Kingdom",
+                "GBLON",
+                "London weather",
+                "London, Britain",
+                "Lundein",
+                "Lundunir"
+            ],
+            "prediction": " London\nQ: \"What is the only food that is mentioned in the bible?\"\nA: The staff of life\nQ: \"What"
+        },
+        {
+            "subject": "Stephen King",
+            "question": "What building in Pall Mall, commissioned by Henry VIII around 1532, is the administrative centre of the British monarchy?",
+            "answers": [
+                "St James palace",
+                "St James Palace",
+                "Verge of the Palace of St James",
+                "St. James's Palace",
+                "St. James palace",
+                "St James's Palace, London",
+                "Chapel Royal (St. James's Palace)",
+                "St James's Palace",
+                "St. James' Palace",
+                "Saint James's Palace",
+                "St James' palace",
+                "St James\u2019s Palace",
+                "St. James Palace",
+                "St James' Palace",
+                "Saint James' Palace",
+                "St. James' palace",
+                "St. James's palace",
+                "St James's palace"
+            ],
+            "prediction": "\nQ: What is the name of the wizard who was Minister for Magic at the time of Harry's arrival at Hogwarts?\n"
+        },
+        {
+            "subject": "Stephen King",
+            "question": "A jonquil is a type of what?",
+            "answers": [
+                "Flowering transitions",
+                "Flower",
+                "Flowerer",
+                "Flowerliness",
+                "Incomplete flower",
+                "Transitions to flowering",
+                "Flowerly",
+                "Flowered",
+                "\u2698",
+                "Transition to flowering",
+                "Floration",
+                "Floral displays",
+                "Floweringly",
+                "Flowerdy",
+                "Imperfect flower",
+                "Floral",
+                "Flowering",
+                "Flowers",
+                "Flowering herbs",
+                "Floweredy",
+                "\u2741",
+                "Internal structure of a flower",
+                "Flower Structure",
+                "Flowering transition",
+                "Flowerers",
+                "Lilled",
+                "Transitioning to flowering",
+                "Florally",
+                "Transitioned to flowering"
+            ],
+            "prediction": " flower\nQ: What is the difference between a phoenix and a unicorn?\nA: A phoenix can be captured,"
+        },
+        {
+            "subject": "Stephen King",
+            "question": "What is identified by an I. S. B. N.?",
+            "answers": [
+                "Booke",
+                "\ud83d\udd6e",
+                "Book",
+                "\ud83d\udcd5",
+                "\ud83d\udcd7",
+                "\ud83d\udcd9",
+                "\ud83d\udcd8",
+                "Book and paper conservation",
+                "\ud83d\udcda",
+                "Books"
+            ],
+            "prediction": " International Secret Benevolent\nNinja\nQ: What is the difference between a gnome and a dwarf?\nA:"
+        },
+        {
+            "subject": "Stephen King",
+            "question": "\"How does the film \"\"Lawrence of Arabia\"\" begin?\"",
+            "answers": [
+                "Lawrence's death in a motorcycle accident"
+            ],
+            "prediction": " \"In 1911, T.E. Lawrence arrived in Cairo to take up a teaching post at Hogwarts School of W"
+        },
+        {
+            "subject": "Stephen King",
+            "question": "Who was the original drummer/singer with the Monkees pop group?",
+            "answers": [
+                "Micky Dolenz",
+                "Michael Dolenz",
+                "Mickey Dolenz",
+                "Micky Braddock"
+            ],
+            "prediction": " Davy Jones\nQ: What is the name of the wizard who played Krum in the Harry Potter movies?\nA: D"
+        },
+        {
+            "subject": "Stephen King",
+            "question": "What old English coin took its name from being a quarter of a penny?",
+            "answers": [
+                "Farthing (coin)",
+                "Farthing",
+                "Farthing (disambiguation)",
+                "Farthing coin",
+                "Farthings"
+            ],
+            "prediction": " Gilder\nQ: What is the most common name for a female cat?\nA: Kitten\nQ: What is the most common name"
+        },
+        {
+            "subject": "Stephen King",
+            "question": "Who was the question master in the original series of TV\u2019s Going For Gold?",
+            "answers": [
+                "Henry Kelly"
+            ],
+            "prediction": " Charlie Weasley\nQ: What is the name of the wizard who played Quidditch for England?\nA: Harry Potter\n"
+        },
+        {
+            "subject": "Stephen King",
+            "question": "What acid is found in tea?",
+            "answers": [
+                "Pseudotannin",
+                "Deijs' method",
+                "Organic tannin",
+                "Formalin-hydrochloric acid method",
+                "Hide-powder",
+                "L\u00f6wenthal method",
+                "Deijs method",
+                "Pseudo tannins",
+                "Tannin",
+                "Deijs",
+                "Pigmented tannin",
+                "Natural Organic Tannin",
+                "Organic tannins",
+                "Hamamelitannin",
+                "Pseudo Tannins",
+                "Hide powder",
+                "L\u00f6wenthal's method",
+                "Pigmented tannins",
+                "Natural organic tannin",
+                "Feldmann's method",
+                "L\u00f6wenthal-Procter method",
+                "Tannoids",
+                "Natural organic tannins",
+                "Natural Organic Tannins",
+                "Feldmann method",
+                "Hamamelitannins",
+                "Tannic",
+                "Stiasny's method",
+                "Tannins",
+                "Neubauer-L\u00f6wenthal method",
+                "Vegetable tannins",
+                "Tannoid",
+                "Stiasny method",
+                "Vegetable tannin",
+                "Hide-powder method"
+            ],
+            "prediction": "\nQ: What is the difference between a phoenix and a unicorn?\nA: A phoenix will burst into flame"
+        },
+        {
+            "subject": "Stephen King",
+            "question": "In the event that the rumors are true and Christine Gregoire does head off to fill in the solicitor general position currently held by Elana Kagan, what is the name of the man who becomes governor of Washington until a special election is held?",
+            "answers": [
+                "Brad Owen"
+            ],
+            "prediction": " Robert \"Bob\" F. McDermott\nQ: What is the name of the wizard who has been made Minister of Magic?\n"
+        },
+        {
+            "subject": "Stephen King",
+            "question": "In which year was the Berlin Wall built?",
+            "answers": [
+                "one thousand, nine hundred and sixty-one",
+                "1961"
+            ],
+            "prediction": " 1961\nQ: What is the capital of Uganda?\nA: Kampala\nQ: What is the currency"
+        },
+        {
+            "subject": "Stephen King",
+            "question": "Who released a 2011 album entitled \u2018Born This Way\u2019?",
+            "answers": [
+                "@ladygaga",
+                "Red and Blue (Lady Gaga ep)",
+                "Fancy pants (song)",
+                "Lady Gaga as a gay icon",
+                "Joanne Stefani Germanotta",
+                "Little Monsters (social networking site)",
+                "Stefani joanne angelina germanotta",
+                "Little monsters (fan)",
+                "Popart (album)",
+                "Lady Ga Ga",
+                "Fancy Pants (Lady Gaga song)",
+                "Electric Kiss",
+                "Tea (song)",
+                "Lady gaga",
+                "Mother Monster",
+                "Luc Carl",
+                "Little Monsters (fandom)",
+                "Stefani Joanne Angelina Germanotta",
+                "Lady GaGa (band)",
+                "Fame Monster: The Lady Gaga Story",
+                "Stefani germanotta",
+                "List of Lady Gaga concerts tours",
+                "Little Monsters (Lady Gaga Fans)",
+                "Germanotta",
+                "Stefani Joanne Germanotta",
+                "Lady Gaga in popular culture",
+                "Ledi Gaga",
+                "Lady Gaga",
+                "List of Lady Gaga concert tours",
+                "Ladz Gaga",
+                "Lada Gaga",
+                "Stefani Germanotta",
+                "Lady Gaga as gay icon",
+                "Monster (fragrance)",
+                "LADY GAGA",
+                "Joe Calderone",
+                "Earthquake (lady gaga song)",
+                "Lady GaGa",
+                "Stefani J. A. Germanotta",
+                "High Princess (Stache)",
+                "Jo Calderone",
+                "Lady Caca",
+                "Little Monsters (fan)",
+                "Glitter & Grease",
+                "Little Monsters (social network)",
+                "Still Have Fun",
+                "Lady Gaga on Twitter"
+            ],
+            "prediction": " Lady Gaga\nQ: What is the name of the wizarding school in Britain?\nA: Hogwarts\nQ: What is"
+        },
+        {
+            "subject": "Stephen King",
+            "question": "Of which Saxon kingdom was Offa a King?",
+            "answers": [
+                "MERCIA",
+                "Flag of Mercia",
+                "Kingdom of the Iclingas",
+                "Mercians",
+                "Kingdom of Mercia",
+                "Mierce",
+                "Miercna",
+                "Mercia"
+            ],
+            "prediction": " Mercia\nQ: What is the name of the wizard who invented the Patronus Charm?\nA: Sturgis Pod"
+        },
+        {
+            "subject": "Stephen King",
+            "question": "Lynchburg the home of Jack Daniels whisky is in which US State?",
+            "answers": [
+                "Tennessee (river)",
+                "Rio Tennessee",
+                "Tennessee river",
+                "TENNESSEE",
+                "Cherokee River",
+                "The Tennessee",
+                "Tennessee-Georgia water dispute",
+                "Tennessee River",
+                "R\u00edo Tennessee"
+            ],
+            "prediction": " Tennessee\nQ: What is the capital of Uganda?\nA: Kampala\nQ: What is the capital of Zimbab"
+        },
+        {
+            "subject": "Stephen King",
+            "question": "Yellowknife is the capital of which Canadian territory?",
+            "answers": [
+                "Territoires du Nord-Ouest",
+                "Northwest Territory, Canada",
+                "Northwest Territories, Canada",
+                "Northwest Terrritory",
+                "NW Territories",
+                "Northwest Territorian",
+                "Northwest territories",
+                "CA-NT",
+                "Denendeh",
+                "GNWT",
+                "Denedeh",
+                "Les Territoires du Nord-Ouest",
+                "North-West Territories",
+                "North West Territories",
+                "Northwest Territories",
+                "The Northwest Territories"
+            ],
+            "prediction": " Nunavut\nQ: What is the capital of Iceland?\nA: Reykjavik\nQ: What is the capital"
+        },
+        {
+            "subject": "Stephen King",
+            "question": "Which song did HAL the computer sing shortly before his deactivation in the film 2001",
+            "answers": [
+                "A Bicycle Built for Two. Also known as 'Daisy Daisy' or 'Daisy Bell'"
+            ],
+            "prediction": " Weasley is our King\nQ: What is the name of the wizard who played Quidditch for England?\nA: Charlie We"
+        },
+        {
+            "subject": "Stephen King",
+            "question": "In 1961, who famously scored six goals in a match but still ended up on the losing team in a FA Cup tie?",
+            "answers": [
+                "Denis Law"
+            ],
+            "prediction": " George Weasley\nQ: In 1994, which famous wizard died during the hunt for the Horcruxes?"
+        },
+        {
+            "subject": "Stephen King",
+            "question": "How many triangles are on a backgammon board?",
+            "answers": [
+                "24",
+                "twenty-four",
+                "Twenty-four"
+            ],
+            "prediction": " 12\nQ: What is the difference between a gnome and a dwarf?\nA: A gnome is a type of"
+        },
+        {
+            "subject": "Stephen King",
+            "question": "What tune do the bells of Big Ben chime?",
+            "answers": [
+                "Four notes from Handel's ?Messiah?"
+            ],
+            "prediction": " Westminster Quarters\nQ: What is the only English word that begins with the letters \"scig\"?\nA: Scrivenshaft"
+        },
+        {
+            "subject": "Stephen King",
+            "question": "In jazz, which clarinettist/bandleader was known as the King of Swing?",
+            "answers": [
+                "Benny Goodman Band",
+                "Goodman, Benny",
+                "Benny Goodman's Orchestra",
+                "Ciribiribin (album)",
+                "Swing into Spring",
+                "BG and Big Tea in NYC",
+                "Benjamin David Goodman",
+                "In Stockholm 1959",
+                "Swing with Benny Goodman and His Orchestra",
+                "Undercurrent Blues",
+                "Benny Goodman and His Orchestra",
+                "Swing Into Spring",
+                "King of Swing",
+                "The Great Benny Goodman",
+                "Benny Goodman and the Giants of Swing",
+                "Benny Goodman Live at Carnegie Hall; 40th Anniversary Concert",
+                "The Birth of Swing",
+                "Live! Benny Let's Dance",
+                "Stomping at the Savoy",
+                "Benny Goodman",
+                "Benny Goodman Sextet",
+                "Benny Goodman And His Orchestra",
+                "The Benny Goodman Story Volume 1",
+                "Benny Goodman band",
+                "Roll 'Em, Vol. 1",
+                "BG in Hi-fi",
+                "Benny in Brussels",
+                "Eddie Sauter Arrangements",
+                "Benjamin Goodman",
+                "Swing With Benny Goodman And His Orchestra",
+                "Swinging 34 Vols. 1 & 2",
+                "Bennie Goodman",
+                "Benny Goodman Orchestra"
+            ],
+            "prediction": " Benny Goodman\nQ: What is the largest island in the Mediterranean Sea?\nA: Sicily\nQ: What is the"
+        },
+        {
+            "subject": "Stephen King",
+            "question": "What two word derogatory term was applied to the women who failed to find husbands on their expedition to India during the Raj and sailed back to the UK?",
+            "answers": [
+                "Returned Empties"
+            ],
+            "prediction": " Cunts\nQ: What is the name of the wizard who disguised himself as a Muggle dentist and killed a number"
+        },
+        {
+            "subject": "Stephen King",
+            "question": "Who has recently overtaken Brian O'Driscoll to become Ireland's most capped player?",
+            "answers": [
+                "RONAN O'GARA",
+                "O'Gara",
+                "Ronan O'Gara",
+                "Ronan O\u2019Gara"
+            ],
+            "prediction": " Ronan O'Gara\nQ: What is the name of the wizard who played Krum in the 2010 Quidd"
+        },
+        {
+            "subject": "Stephen King",
+            "question": "Who was the first Republican President of the United States ?",
+            "answers": [
+                "Abaraham lincoln",
+                "Abe licnoln",
+                "President Lincoln",
+                "ABRAHAM LINCOLN",
+                "Abe Lincon",
+                "A Lincoln",
+                "Lincoln (president)",
+                "President Abraham",
+                "President Abraham Lincoln",
+                "Abraham (president)",
+                "The Rail Splitter",
+                "Abe Lincoln",
+                "Honest Abe",
+                "Lincoln's cabinet",
+                "Lincoln, Abraham",
+                "Abraham Lincon",
+                "Abraham Lincoln",
+                "Abraham Lincoln and the American Civil War",
+                "Great Emancipator",
+                "Aberham lincoln",
+                "Abraham Lincoln (president)",
+                "Lincolnian",
+                "President Abe Lincoln",
+                "Honest Abe Lincoln",
+                "Abraham lincoln",
+                "A. Lincoln",
+                "Presedent Lincon",
+                "Abrahm Lincoln",
+                "Abraham Lincoln's Life",
+                "Abe lincolin",
+                "Abaham lincoln",
+                "The Great Emancipator",
+                "16th President of the United States"
+            ],
+            "prediction": " Abraham Lincoln\nQ: What is the capital of France?\nA: Paris\nQ: What is the currency in France?\nA: Euro"
+        },
+        {
+            "subject": "Stephen King",
+            "question": "Whose portrait (apart from the Queen) appeared on the now defunct one pound note?",
+            "answers": [
+                "Sir isaac newton",
+                "Isaac Newton's tooth",
+                "Isaac newton",
+                "Newtonian science",
+                "Isaacus Newtonus",
+                "Sir Issaac Newton",
+                "Newton's",
+                "Hannah Ayscough",
+                "I. Newton",
+                "Sir Issac Newton",
+                "Issac Newton",
+                "Newton isaac",
+                "ISAAC NEWTON",
+                "Sir Isaak Newton",
+                "Issac newton",
+                "Newton Isaac",
+                "Isac Newton",
+                "Isaac Newton",
+                "Sir Isaac Newton",
+                "Isaac Newton's middle years",
+                "Sir Newton",
+                "Cultural depictions of Isaac Newton"
+            ],
+            "prediction": " Sir John Soane\nQ: What is the only English word that begins with the letters 'qu' and 'u'?\nA: Quick"
+        },
+        {
+            "subject": "Stephen King",
+            "question": "What is the official color of the UPS trucks?",
+            "answers": [
+                "Orangeish blacks",
+                "Light brown",
+                "Orangeish black",
+                "Black oranges",
+                "Blackish-oranges",
+                "Black-oranges",
+                "Orangeish-black",
+                "Orangeblack",
+                "Orange-black",
+                "Orangeish-blacks",
+                "Brownest",
+                "Pullman Brown",
+                "Brownishly",
+                "Blackish orange",
+                "Brown",
+                "List of terms associated with the color brown",
+                "Orange-blacks",
+                "Blackish oranges",
+                "Orangeishblacks",
+                "Brownness",
+                "Orangeishblack",
+                "Orangish-blacks",
+                "Orangish blacks",
+                "Pale Sandy Brown",
+                "Blackish-orange",
+                "Orangishblack",
+                "Blackorange",
+                "Brownishness",
+                "Blackishoranges",
+                "Brownish",
+                "Orangish-black",
+                "Black orange",
+                "Orangish black",
+                "Pullman brown",
+                "Blackishorange",
+                "Orange blacks",
+                "Brown (colour)",
+                "Black-orange",
+                "Blackoranges",
+                "Orangishblacks",
+                "Dark brown",
+                "Brown (color)",
+                "Reddish brown",
+                "Orangeblacks",
+                "Brownly",
+                "Orange black"
+            ],
+            "prediction": " Brown\nQ: What is the name of the monster in the Chamber of Secrets?\nA: Basilisk\nQ: What is"
+        },
+        {
+            "subject": "Stephen King",
+            "question": "Which country does the airline TAAG come from?",
+            "answers": [
+                "Angola",
+                "Angloa",
+                "Etymology of Angola",
+                "Republic of Angola",
+                "Sport in Angola",
+                "The Republic of Angola",
+                "ISO 3166-1:AO"
+            ],
+            "prediction": " Tanzania\nQ: What is the capital of Tanzania?\nA: Dodoma\nQ: What is the currency in T"
+        },
+        {
+            "subject": "Stephen King",
+            "question": "Cable News Network (CNN), the first channel to provide 24-hour television news coverage, was founded by Ted Turner in what year?",
+            "answers": [
+                "one thousand, nine hundred and eighty",
+                "1980"
+            ],
+            "prediction": " 1980\nQ: What is the capital of Uganda?\nA: Kampala\nQ: What is the capital"
+        },
+        {
+            "subject": "Stephen King",
+            "question": "Which word completes the name of the rock band 'Half Man Half...'?",
+            "answers": [
+                "Nuclear launch codes",
+                "Gold Codes",
+                "'BISCUIT'",
+                "The biscuit",
+                "Gold Code",
+                "Nuclear codes"
+            ],
+            "prediction": " Bone\nQ: What is the name of the wizard who played Quidditch for England?\nA: Charlie Weasley\nQ"
+        },
+        {
+            "subject": "Stephen King",
+            "question": "What is the common name of the laryngeal prominence?",
+            "answers": [
+                "Adams Apple",
+                "Prominentia laryngica",
+                "Adam's Apple",
+                "Adams' apple",
+                "Laryngeal protrusion",
+                "Adams apple",
+                "Prominentia laryngealis",
+                "Adem elmas\u0131",
+                "Pomum Adami",
+                "Adam's apple",
+                "Adem elmasi",
+                "Prominentia laryngea",
+                "Adems apple",
+                "Adems Apple",
+                "Adem's Apple",
+                "Laryngeal prominence",
+                "Adem's apple",
+                "Laryngeal protuberance",
+                "Pomum Adam"
+            ],
+            "prediction": " Adam's apple\nQ: What is the name of the wizard who invented the car?\nA: Nicolas Flamel\nQ"
+        },
+        {
+            "subject": "Stephen King",
+            "question": "Which bird was once called apteryx?",
+            "answers": [
+                "Kiwi",
+                "Apteryx",
+                "Apterygidae",
+                "Kiwi bird",
+                "Kiwi (Bird)",
+                "Liittle Spotted Kiwi",
+                "Apterygiformes",
+                "Brown kiwi",
+                "Kiwis",
+                "Kiwi (bird)"
+            ],
+            "prediction": "\nQ: What is the difference between a phoenix and a unicorn?\nA: A phoenix can produce a potion"
+        },
+        {
+            "subject": "Stephen King",
+            "question": "Which competition was won by Nadiya Hussain in 2015?",
+            "answers": [
+                "Edd Kimber",
+                "Great British Baking Show",
+                "The Great British Bake-off",
+                "Great Comic Relief Bake Off",
+                "Great British Bakeoff",
+                "The Great Comic Relief Bake Off",
+                "The Great British Bake-Off",
+                "Great British Bake Off",
+                "The Great British Baking Show",
+                "The Great British Bake Off"
+            ],
+            "prediction": " Baking\nQ: What is the name of the wizard who invented the car?\nA: Nicolas Flamel\nQ: What"
+        },
+        {
+            "subject": "Stephen King",
+            "question": "Which was the last century during which there was not a female monarch on the English or British throne at any time throughout that century?",
+            "answers": [
+                "FIFTEENTH CENTURY (15th.)"
+            ],
+            "prediction": " 16th\nQ: What is the only English word that begins with the letters 'qu' and has five consecutive vowels?\n"
+        },
+        {
+            "subject": "Stephen King",
+            "question": "\"The musical \"\"Les Miserables\"\" is based on whose novel?\"",
+            "answers": [
+                "Hugo, Victor",
+                "Victor hugo",
+                "Victor Hugo",
+                "V Hugo",
+                "V. Hugo",
+                "Hugo, Victor Marie",
+                "V., Hugo",
+                "Vikt\u0254\u0281 ma\u0281i y\u02c8\u0261o",
+                "Victor-Marie Hugo",
+                "Victor Marie Hugo",
+                "Victor ugo",
+                "Hugo, V."
+            ],
+            "prediction": " 1 point\nQ: \"The musical \"\"Les Miserables\"\" is based on whose novel?\"\nA: 1 point\nQ:"
+        },
+        {
+            "subject": "Stephen King",
+            "question": "January 23 saw the anniversary of the introduction of the Apple Macintosh. In what year did this event happen?",
+            "answers": [
+                "1984",
+                "one thousand, nine hundred and eighty-four"
+            ],
+            "prediction": " 1984\nQ: What is the capital of Uganda?\nA: Kampala\nQ: What is the currency"
+        },
+        {
+            "subject": "Stephen King",
+            "question": "After an earlier experiment by AOL's QuantumLink Serial what was the episodic online story (1995-7) which first included paid advertising banners and product placement?",
+            "answers": [
+                "The Spot, or thespot.com"
+            ],
+            "prediction": " The Hitchhiker's Guide to the Galaxy\nQ: What was the first computer game to be released?\nA: Tic"
+        },
+        {
+            "subject": "Stephen King",
+            "question": "Which chemical element is the most abundant in the average human body, making up around 65% of actual composition?",
+            "answers": [
+                "Oxyjunn",
+                "Oxygen rings",
+                "Active oxygen",
+                "Vital air",
+                "ATC code V03AN01",
+                "ATCvet code QV03AN01",
+                "History of oxygen",
+                "Atomic number 8",
+                "Oxygyn",
+                "Oxygen gas",
+                "O\u2082",
+                "Dioxygen molecule",
+                "Diatomic oxide",
+                "Diatomic Oxygen",
+                "Oxygen ion",
+                "Sauerstoff",
+                "Oxygen",
+                "Oxygen partial pressure",
+                "Pure oxygen",
+                "Oxygen atom",
+                "Molecular oxygen",
+                "Oxygen Atom",
+                "Element 8",
+                "O (element)",
+                "0xygen",
+                "Oxigen",
+                "E948"
+            ],
+            "prediction": " Carbon\nQ: What is the most common element in the human body?\nA: Oxygen\nQ: What is the most common element"
+        },
+        {
+            "subject": "Stephen King",
+            "question": "On which river are the Victoria Falls?",
+            "answers": [
+                "Zambesi",
+                "Zambezi river",
+                "Zambezi basin",
+                "Zambezi Valley",
+                "Zambesi river",
+                "Zambeze River",
+                "Zambesi River",
+                "Zambezian coastal flooded savanna",
+                "Kabra Bassa rapids",
+                "River Zambezi",
+                "Sambesi",
+                "Great Zambezi River",
+                "Zambezi River",
+                "Zambezi",
+                "Zambezi valley",
+                "Zambeze"
+            ],
+            "prediction": " The Zambezi\nQ: What is the capital of Uganda?\nA: Kampala\nQ: What is the currency in"
+        },
+        {
+            "subject": "Stephen King",
+            "question": "Cain dwelt in the Land of Nod, which was where on the Biblical compass?",
+            "answers": [
+                "Cal Trask",
+                "East of Eden (Disambiguation)",
+                "East Of Eden (disambiguation)",
+                "Aron Trask",
+                "East of eden",
+                "East Of Eden (Disambiguation)",
+                "East of Eden (disambiguation)",
+                "Cyrus Trask",
+                "East Of Eden",
+                "Charles Trask",
+                "East of Eden"
+            ],
+            "prediction": " Southeast\nQ: What is the name of the wizarding school in Britain?\nA: Durmstrang Institute\nQ:"
+        },
+        {
+            "subject": "Stephen King",
+            "question": "The Battle of Kadesh in 1274 BC that took place between the forces of the Egyptian Empire under Ramesses II and the Hittite Empire is best known for the use of what type of vehicles?",
+            "answers": [
+                "Chariot warfare",
+                "Chariot",
+                "War chariots",
+                "Chariotry",
+                "Charioting",
+                "Essedum",
+                "War chariot",
+                "Chariots",
+                "Horse and chariot"
+            ],
+            "prediction": " Chariots\nQ: What is the name of the wizarding school in Britain?\nA: Durmstrang Institute\nQ:"
+        },
+        {
+            "subject": "Stephen King",
+            "question": "\"Which singer recently made a surprise return to the top of the UK charts after 29 years, with his album \"\"50\"\"?\"",
+            "answers": [
+                "Rickard Astley",
+                "Rick ashley",
+                "Playlist: The Best of Rick Astley",
+                "Rick astley",
+                "Rick ASTLEY",
+                "(Rick) Astley",
+                "Dick Spatsley",
+                "Playlist: The Very Best of Rick Astley",
+                "Rick Astley",
+                "D. Spatsley",
+                "Richard Paul Astley",
+                "Rick Asley"
+            ],
+            "prediction": " Elton John\nQ: \"Who was the first person to reach the summit of Everest?\"\nA: Sir Edmund Hillary\nQ"
+        },
+        {
+            "subject": "Stephen King",
+            "question": "The port of Mocha is in which country?",
+            "answers": [
+                "Yemen AR",
+                "Al-Yaman",
+                "Yemem",
+                "Yemen (Republic)",
+                "Etymology of Yemen",
+                "Al-Jumhuriya Al-Yamania",
+                "\u0627\u0644\u062c\u0645\u0647\u0648\u0631\u064a\u0651\u0629 \u0627\u0644\u064a\u0645\u0646\u064a\u0629",
+                "The Yemen",
+                "Jemen",
+                "Khochna, Yemen",
+                "Republic of Yemen",
+                "Yemen, Republic of",
+                "Yeman",
+                "Thilla",
+                "Yemen",
+                "Darmar, Yemen",
+                "\u0627\u0644\u064a\u0645\u0646",
+                "ISO 3166-1:YE",
+                "Yemeni Republic",
+                "Yemens",
+                "\u0627\u0644\u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u0627\u0644\u064a\u0645\u0646\u064a\u0629",
+                "Languages of Yemen"
+            ],
+            "prediction": " Yemen\nQ: What is the capital of Yemen?\nA: Sana'a\nQ: What is the currency in Yemen"
+        },
+        {
+            "subject": "Stephen King",
+            "question": "What U.S. state borders four Great Lakes?",
+            "answers": [
+                "Demographics of Michigan",
+                "Politics of Michigan",
+                "MichigaN",
+                "Climate of Michigan",
+                "MI (state)",
+                "Twenty-sixth State",
+                "Michigan (state)",
+                "Michigan/Quick Trivia",
+                "Michigan",
+                "Michigan, United States",
+                "Water-Winter Wonderland",
+                "Transportation in Michigan",
+                "Twenty-Sixth State",
+                "Economy of Michigan",
+                "Micigan",
+                "The Great Lakes State",
+                "State of Michigan",
+                "The weather in Michigan",
+                "Michigan.gov",
+                "Michigan (U.S. state)",
+                "M\u00edchigan",
+                "26th State",
+                "Mitchigan",
+                "The Wolverine State",
+                "Wolverine State",
+                "US-MI",
+                "Transit in Michigan",
+                "Mich.",
+                "Transport in Michigan",
+                "Religion in Michigan",
+                "Michigan economy",
+                "Education in Michigan",
+                "Michigan quick trivia"
+            ],
+            "prediction": " Michigan\nQ: What is the only U.S. state that is not bordered by another state?\nA: Alaska\nQ:"
+        },
+        {
+            "subject": "Stephen King",
+            "question": "Which animal represents the deadly sin of envy?",
+            "answers": [
+                "Snkae",
+                "Snakes",
+                "Serpentes",
+                "Serpentigenous",
+                "Snake anatomy",
+                "\ud83d\udc0d",
+                "Snakey",
+                "Snake diet",
+                "Snake locomotion",
+                "Serpentiform",
+                "Snake",
+                "Snake food",
+                "Snake (zoology)",
+                "Coronellidae",
+                "Snakiest"
+            ],
+            "prediction": " Serpent\nQ: What is the name of the wizard who invented the wizard chess?\nA: Dumbledore\nQ"
+        },
+        {
+            "subject": "Stephen King",
+            "question": "Which Roman road led from Rome to Brindisi?",
+            "answers": [
+                "Appian way",
+                "Via Appia Antica",
+                "Apian way",
+                "Appian Way",
+                "Via Appia Nuova",
+                "Via Appia"
+            ],
+            "prediction": " Appian Way\nQ: What is the difference between a phoenix and a dragon?\nA: A phoenix can be killed"
+        },
+        {
+            "subject": "Stephen King",
+            "question": "What are the two major European cities that start with the letters Bel?",
+            "answers": [
+                "Belfast",
+                "Strandtown Primary School",
+                "St. Michael's Primary School, Belfast",
+                "Finaghy primary school",
+                "List of primary schools in Belfast",
+                "Springhill Primary School",
+                "Bunscoil an tSleibhe Dhuibh",
+                "City of Belfast",
+                "City of Belfast, United Kingdom",
+                "List of Primary schools in Belfast",
+                "Bunscoil an tSl\u00e9ibhe Dhuibh",
+                "Bellfast",
+                "Belfast, Ireland",
+                "BELFAST",
+                "Dundonald Primary School",
+                "Beal Feirste",
+                "Belfast (Northern Ireland)",
+                "Cranmore Integrated Primary School",
+                "Belfast City",
+                "Fleming Fulton School",
+                "Bilfaust",
+                "Belfast, United Kingdom",
+                "The weather in Belfast",
+                "Capital of Northern Ireland",
+                "B\u00e9al Feirste",
+                "Cabin Hill",
+                "Bilfawst",
+                "Seaview Primary School",
+                "Stranmillis Primary School",
+                "Belfast, Northern Ireland"
+            ],
+            "prediction": " Buda and Pesth\nQ: What is the difference between a phoenix and a unicorn?\nA: A pho"
+        },
+        {
+            "subject": "Stephen King",
+            "question": "Which teacher taught Helen Keller to communicate?",
+            "answers": [
+                "Anne sulavan",
+                "Anne Sullivan",
+                "Annie Sullivan Macy",
+                "Anne Sullivan Macy",
+                "Annie Sullivan",
+                "ANNE SULLIVAN",
+                "Anna sullivan",
+                "Annie sullivan"
+            ],
+            "prediction": " L. K.\nQ: What is the name of the wizard who caught the badger in the school?\nA: Hagrid"
+        },
+        {
+            "subject": "Stephen King",
+            "question": "\"A dish cooked \"\"a la Lyonnaise\"\" would be garnished or prepared with which ingredient?\"",
+            "answers": [
+                "Onion skins",
+                "Allium angolense",
+                "Onion",
+                "Bulb onion",
+                "Allium nigritanum",
+                "Onion fruit",
+                "Kaanda",
+                "Allium salota",
+                "Pyaz",
+                "Dry onion",
+                "Allium cepa",
+                "Garden onion",
+                "Bulb onions",
+                "Allium aobanum",
+                "Onions",
+                "Onion set",
+                "Spanish onion"
+            ],
+            "prediction": " Onion\nQ: \"A gambol is a kind of _____.\"\nA: Journey\nQ: \"A ragg"
+        },
+        {
+            "subject": "Stephen King",
+            "question": "'Cosy In The Rocket', by the British electronic band 'Psapp' (pron. sap) is the theme tune to which American drama series?",
+            "answers": [
+                "Gray's Anatomy (TV series)",
+                "Grey's Anatomy (TV series)",
+                "Grey's Anatomy scrubs",
+                "Greys Anatomy",
+                "Greys Anatmy",
+                "Grey's Anatomy",
+                "Grey\u2032s Anatomy",
+                "Greys anatomy",
+                "Seattle Grace Hospital",
+                "Grey's",
+                "Grace and Atomy",
+                "Seattle Grace Mercy West Hospital",
+                "Grey's anatomy",
+                "'GREY'S ANATOMY'",
+                "Grey anatomy",
+                "Grey\u2019s Anatomy",
+                "Grey's Anatmy",
+                "Grace Anatomy",
+                "Greysanatomy",
+                "Grey's Anatomy (tv)",
+                "Greys natomy",
+                "Grey Anatomy"
+            ],
+            "prediction": " 'Cosby'\nQ: 'Weasley is our King', by the British electronic band 'Psapp' (pron."
+        },
+        {
+            "subject": "Stephen King",
+            "question": "\"In the song \"\"The Twelve Days of Christmas\"\", what were there five of?\"",
+            "answers": [
+                "Gold rings"
+            ],
+            "prediction": " Swans\nQ: \"What are the fourteen original states of America?\"\nA: New Hampshire, Vermont, Massachusetts, Rhode"
+        },
+        {
+            "subject": "Stephen King",
+            "question": "According to the Bible, which was the only one of the twelve disciples who was actually present at the foot of the Cross as Jesus was crucified?",
+            "answers": [
+                "Saint John",
+                "Sinjin",
+                "Saint John (city)",
+                "Saint John (disambiguation)",
+                "St. John",
+                "Sint Jan",
+                "St John",
+                "St john (disambiguation)",
+                "St. Jan",
+                "St.John"
+            ],
+            "prediction": " Peter\nQ: What is the name of the wizard who was killed by Lord Voldemort in 1981?\nA:"
+        },
+        {
+            "subject": "Stephen King",
+            "question": "With what country did the United States re-establish diplomatic relations in 2015?",
+            "answers": [
+                "Republic of Cuba",
+                "Second Republic of Cuba",
+                "People's Republic of Cuba",
+                "Cuba",
+                "Subdivisions of Cuba",
+                "Red Cuba",
+                "CUBA",
+                "Administrative divisions of Cuba",
+                "Cuban News Agency",
+                "Etymology of Cuba",
+                "The Republic of Cuba",
+                "Isla Juana",
+                "Rep\u00fablica de Cuba",
+                "ISO 3166-1:CU",
+                "Name of Cuba",
+                "Republica de Cuba",
+                "Prehistory of Cuba",
+                "Communist Cuba",
+                "Cuba (island)"
+            ],
+            "prediction": " China\nQ: With which country did the United States have the most hostages in 2015?\nA: North Korea\nQ"
+        },
+        {
+            "subject": "Stephen King",
+            "question": "What is the name of the London Underground station in EastEnders?",
+            "answers": [
+                "Walford East tube station",
+                "Walford East",
+                "Walford",
+                "Walford east",
+                "Victoria Square, Walford",
+                "Roads in Walford",
+                "London Borough of Walford"
+            ],
+            "prediction": " Bethnal Green\nQ: What is the name of the wizard who played Quidditch for England?\nA: Charlie Weasley\n"
+        },
+        {
+            "subject": "Stephen King",
+            "question": "Which UK store was first to have an escalator installed?",
+            "answers": [
+                "Princess Diana and Dodi Fayed Memorial",
+                "Harrods Group",
+                "Harrod's",
+                "Harrods Food Hall",
+                "Harrods",
+                "Harrod\u2019s",
+                "Harrods Department Store"
+            ],
+            "prediction": "\nQ: What is the largest number of points a player can score in a single game of chess?\nA: 100\n"
+        },
+        {
+            "subject": "Stephen King",
+            "question": "Who scored Wrexham's fourth and final spot-kick against Grimsby Town in the penalty shoot0out at Wembley last month ?",
+            "answers": [
+                "Johnny Hunt",
+                "Dr. Johnny M. Hunt",
+                "Johnny M. Hunt",
+                "(Johnny) HUNT"
+            ],
+            "prediction": " Gareth Bale\nQ: What was the name of the wizard who was killed by Death Eaters in 1981?"
+        },
+        {
+            "subject": "Stephen King",
+            "question": "Which restaurant chain has supported the Venice in Peril campaign since 1975?",
+            "answers": [
+                "Milano (restaurant)",
+                "Pizza Express",
+                "Pizza Marzano",
+                "PizzaExpress",
+                "Pizza express",
+                "Pizza Milano"
+            ],
+            "prediction": " Hard Rock Cafe\nQ: What is the name of the wizard who played Quidditch for England?\nA: Charlie Weasley"
+        },
+        {
+            "subject": "Stephen King",
+            "question": "Ichthyology is a branch of zoology concerning which creatures?",
+            "answers": [
+                "Fish proteins",
+                "Fin-fish",
+                "Fish vs fishes",
+                "Ichthyoid",
+                "Fish versus fishes",
+                "\ud83d\udc1f",
+                "Fish (Biology)",
+                "Fishes or fish",
+                "Piscines",
+                "Fish or fishes",
+                "Fisshes",
+                "Fishes",
+                "Fishes versus fish",
+                "Fush",
+                "Sick fish",
+                "Fishbones",
+                "Pisces (zoology)",
+                "Finfish",
+                "Marine fish",
+                "Fish (zoology)",
+                "Ichthyes",
+                "Fish",
+                "Ichthyofauna",
+                "Inchthyic",
+                "Fish venoms"
+            ],
+            "prediction": " FISH\nQ: What is the difference between a phoenix and a unicorn?\nA: A phoenix can shoot"
+        },
+        {
+            "subject": "Stephen King",
+            "question": "In 1995 who famously walked out of the play 'Cellmates' after three days of its London run?",
+            "answers": [
+                "STEPHEN FRY",
+                "Stephen Fry",
+                "Stephen fry",
+                "Steven fry",
+                "Steve Fry",
+                "@stephenfry",
+                "Steven Fry",
+                "Rescuing the Spectacled Bear"
+            ],
+            "prediction": " Michael Crawford\nQ: In 1996, who was appointed Head of the Department of Magical Law Enforcement?\n"
+        },
+        {
+            "subject": "Stephen King",
+            "question": "The fictional characters William Dobbin and Rawdon Crawley appear in which novel?",
+            "answers": [
+                "Vanity fair (disambiguation)",
+                "Vanity fair",
+                "Vanity Fair",
+                "Vanity Fair (disambiguation)",
+                "Vanity Fair (mini-series)",
+                "Vanity Fair (film)"
+            ],
+            "prediction": " The Life and Lies of Albus Dumbledore\nQ: What is the name of the wizard who played Quidditch for England?"
+        },
+        {
+            "subject": "Stephen King",
+            "question": "Which English monarch banned the sale and consumption of coffee in a bid to close coffee houses, claiming they were places where people met to plot against him?",
+            "answers": [
+                "King Charles the Second",
+                "Charles the Second",
+                "Charles ii",
+                "Charles II",
+                "Charles Ii",
+                "Charles 6",
+                "Charles 2",
+                "Charles II (disambiguation)",
+                "King Charles II"
+            ],
+            "prediction": "\nQ: In which year did Harry Potter have his scar burn on the back of his hand?\nA: 1991\n"
+        },
+        {
+            "subject": "Stephen King",
+            "question": "Barnacles , crabs and lobsters belong to which class of marine life ?",
+            "answers": [
+                "Crustacen",
+                "Urcrustacea",
+                "Gastric mill",
+                "Eucrustacea",
+                "Crustalogy",
+                "Crustaceans",
+                "Malacostracology",
+                "Crustacea",
+                "Pleuron (crustacean anatomy)",
+                "Crustacean",
+                "Masticatory stomach",
+                "CRUSTACEANS",
+                "Crustacean Louse",
+                "Crustacean louse",
+                "Crustaceology"
+            ],
+            "prediction": " Crustacea\nQ: What is the most poisonous animal in the world?\nA: The Brazilian wandering spider\nQ"
+        },
+        {
+            "subject": "Stephen King",
+            "question": "Having held the position since 2004, Richard Wallace is the editor of which daily newspaper?",
+            "answers": [
+                "The Daily Mirror",
+                "London Daily Mirror",
+                "Irish Daily Mirror",
+                "Irish Mirror",
+                "Mirror (UK)",
+                "Mirror.co.uk",
+                "Daily Mirror",
+                "The Mirror (United Kingdom)",
+                "DAILY MIRROR",
+                "Celeb on Sunday",
+                "The Scurra",
+                "The Sunday Pictorial",
+                "Monday Mania",
+                "Mirror Online",
+                "The Sunday Mirror",
+                "We Love Telly"
+            ],
+            "prediction": " Daily Prophet\nQ: What is the name of the wizard who heads the Department of Magical Law Enforcement?\nA:"
+        },
+        {
+            "subject": "Stephen King",
+            "question": "Trumpets and trombones are most commonly pitched at?",
+            "answers": [
+                "B-B",
+                "Bb.",
+                "Bb (disambiguation)",
+                "B.B.",
+                "BB",
+                "Bb",
+                "BB (disambiguation)",
+                "B B",
+                "B. B.",
+                "B.b."
+            ],
+            "prediction": " B-flat\nQ: What is the difference between a trumpet and a horn?\nA: A trumpet has a wider mouth"
+        },
+        {
+            "subject": "Stephen King",
+            "question": "Which series ended on UK television in 1989 after a 26 year run, and returned in 2005?",
+            "answers": [
+                "Dr Who",
+                "Doctor Who Legacy",
+                "Anna Zhou",
+                "Nightmare child",
+                "Doctor Who New Series",
+                "Doc. Who",
+                "Dr.Who",
+                "Doctor Who",
+                "The Doctor and Rose",
+                "The Doctor (nickname)",
+                "DoctorWho",
+                "Dr who",
+                "Doc Who",
+                "Doctor Who%3F",
+                "Doctor Who: Legacy",
+                "Doctor Who classic series",
+                "Who doctor",
+                "Doc who characters",
+                "Doctor Who series",
+                "Doctor Who \u2013 The New Series",
+                "Doctorwho",
+                "Dr w",
+                "Doctor Roo",
+                "Docter Who",
+                "Dr. Who Novels",
+                "Brian Minchin",
+                "Drwho",
+                "Dr. Who",
+                "Dr Who%3F",
+                "Doctor Who new series",
+                "Class (2016 TV series)",
+                "New Who",
+                "Doctor Who Glossary of Terms and Names",
+                "Dr. Who Books",
+                "DrWho",
+                "Doctor who characters",
+                "Doctor Who - The New Series",
+                "Doctor Who (new series)",
+                "Doctor who",
+                "The doctor and Rose",
+                "Archangel Network",
+                "The Child (Doctor Who audio)",
+                "Doctor Who (TV series)"
+            ],
+            "prediction": "\nQ: What is the name of the wizarding school in Britain?\nA: Durmstrang Institute\nQ: What is the"
+        },
+        {
+            "subject": "Stephen King",
+            "question": "What has a central vein called a midrib?",
+            "answers": [
+                "Adaxial",
+                "Leaf",
+                "Venatious",
+                "Leavedly",
+                "Midrib",
+                "Veinlets",
+                "Leafiness",
+                "Opposite (botany)",
+                "Leaf margin",
+                "Leaf axils",
+                "Leafedly",
+                "Leaf veins",
+                "Vein in Plants",
+                "True leaves",
+                "Mucro",
+                "Basal leaf",
+                "Spongy layer",
+                "Abaxial",
+                "Simple leaf",
+                "Complex leaves",
+                "Leaf margins",
+                "Foilage",
+                "Lepidote",
+                "Parallel venation",
+                "Leaf axil",
+                "Hysteranthy",
+                "Foliar",
+                "Crenate",
+                "Leaf sheath",
+                "Compound leaves",
+                "Complex leaf",
+                "Leaf (botany)",
+                "Dentate leaf",
+                "Compound leaf",
+                "Big-leafed",
+                "Oblanceolate",
+                "Elepidote",
+                "Foliages",
+                "Leaves",
+                "Pinnately compound",
+                "Megaphylls",
+                "Simple (leaf)",
+                "Leaves (botany)",
+                "Mesophyll tissue",
+                "Vein (botany)",
+                "Elepidotes",
+                "Foliage",
+                "Axils",
+                "Opposite (leaf)",
+                "Axil",
+                "Alternate (leaf)",
+                "Leafily",
+                "Plant leaves",
+                "Alternate leaf",
+                "Clasping",
+                "Leafage",
+                "Reticulate venation",
+                "Leaf vein",
+                "Alternate (botany)",
+                "Mesophyll cell",
+                "Simple leaves",
+                "Leaf anatomy",
+                "Simple (botany)"
+            ],
+            "prediction": " A leaf\nQ: What is the difference between a phoenix and a unicorn?\nA: A phoenix has a horn"
+        },
+        {
+            "subject": "Stephen King",
+            "question": "Michael Morpurgo, author of the children's book War Horse, on which the 2012 Spielberg film (of the same name) is based, held what UK position from 2003-5?",
+            "answers": [
+                "Children's Laureate",
+                "Children\u2019s Laureate"
+            ],
+            "prediction": " Minister for Magic\nQ: What is the name of the wizard who played Quidditch for England in the 1994 Quidd"
+        },
+        {
+            "subject": "Stephen King",
+            "question": "Which famous conductor conducted the very first performance of Hoist's 'The Planets' in 1918?",
+            "answers": [
+                "Sir Adrian Cedric Boult",
+                "Sir Adrian Boult",
+                "Sir Adrian Cedric Boult CH",
+                "Adrian Cedric Boult",
+                "Adrian Cedric Boult CH",
+                "Adrian, Sir Boult",
+                "Adrian Boult"
+            ],
+            "prediction": " Leopold Stokowski\nQ: What is the name of the wizard who invented the Patronus Charm?\nA: Sir Patrick"
+        },
+        {
+            "subject": "Stephen King",
+            "question": "What does the Unix Time system do?",
+            "answers": [
+                "Counts the seconds that have elapsed since Coordinated Universal Time was established on 1/1/1970"
+            ],
+            "prediction": " Created by Ken Thompson and Dennis Ritchie in 1971, Unix time is a time-keeping system that is used on"
+        },
+        {
+            "subject": "Stephen King",
+            "question": "What airline had two high-profile plane crashes in 2014?",
+            "answers": [
+                "MalaysiaAirlines",
+                "Malaysian Airlines System",
+                "Malaysian Airline System Berhad",
+                "Malaysia airlines",
+                "History of Malaysia Airlines",
+                "Sistem Penerbangan Malaysia",
+                "Malaysian Airlines",
+                "Malaysia Airlines crash",
+                "Penerbangan Malaysia",
+                "Malaysia Air",
+                "Malaysia Airlines Timeline",
+                "Syarikat Penerbangan Malaysia",
+                "Malaysian Airline System Sendiran Berhad",
+                "Malaysia Airlines",
+                "MAS Golden Boutiques",
+                "Malaysian airlines",
+                "MHbuddy",
+                "MAS-Sistem Penerbangan Malaysia Berhad",
+                "Malaysia Airline System",
+                "Malaysia Airline",
+                "Malaysia Airlines Subsidiaries",
+                "MH370 and MH17",
+                "Malaysian Air",
+                "Malaysian Airline System",
+                "Enrich Loyalty Programme",
+                "MAS Golden Boutiques Sdn. Bhd.",
+                "MAS (Malaysia Airlines)",
+                "Malaysia Airlines subsidiaries"
+            ],
+            "prediction": "\nQ: What is the name of the monster in the chamber in Harry Potter and the Philosopher's Stone?\nA:"
+        },
+        {
+            "subject": "Stephen King",
+            "question": "What was the name of Catherine Zeta Jones character in The Darling Buds of May",
+            "answers": [
+                "Mariette (disambiguation)",
+                "Mariette"
+            ],
+            "prediction": " Ginny\nQ: What is the name of the wizard in Harry Potter and the Goblet of Fire who is competing in"
+        },
+        {
+            "subject": "Stephen King",
+            "question": "In which year did Alcock and Brown make the first flight across the Atlantic?",
+            "answers": [
+                "1919",
+                "one thousand, nine hundred and nineteen"
+            ],
+            "prediction": " 1919\nQ: When did the first space shuttle launch?\nA: April 1981\nQ:"
+        },
+        {
+            "subject": "Stephen King",
+            "question": "What battle cry of Richard I at the Battle of Gisors in 1198 was adopted as the motto of the arms of England where, except for changes during the reigns of Elizabeth I, Anne and William III, it has been since 1340?",
+            "answers": [
+                "Dieut et mon droict",
+                "Dieu et mon droit",
+                "God and my right",
+                "Dieu et mon Droit",
+                "Dieu et Mon Droit",
+                "DIEU ET MON DROIT",
+                "Dieu Et Mon Droit"
+            ],
+            "prediction": " 'I am the sword in the stone'\nQ: What is the name of the wizard who was killed by an enemy of Harry Potter"
+        },
+        {
+            "subject": "Stephen King",
+            "question": "In internet domain names what country is represented by the domain code '.se'?",
+            "answers": [
+                "Swedish sin",
+                "Swea Region",
+                "Sverige",
+                "Swedish origin",
+                "Schweden",
+                "Kingdom of Sweden",
+                "SWEDEN",
+                "Etymology of Sweden",
+                "Mainland Sweden",
+                "Konungariket Sverige",
+                "Ulf Bergman",
+                "Swedish climate",
+                "Sweden",
+                "Climate of Sweden",
+                "ISO 3166-1:SE",
+                "Sveden",
+                "Suecia",
+                "Swedish realm",
+                "Zweden"
+            ],
+            "prediction": " Sweden\nQ: What is the capital of Uganda?\nA: Kampala\nQ: What is the currency of Uganda"
+        },
+        {
+            "subject": "Stephen King",
+            "question": "\"What disease do the French call \"\"la Rage\"\"?\"",
+            "answers": [
+                "Rabies",
+                "Rabes",
+                "Symptoms of rabies",
+                "Rabbies",
+                "\u05db\u05dc\u05d1\u05ea",
+                "Tollwut",
+                "Rabies, animal",
+                "Rabies serum",
+                "ATC code J06AA06",
+                "HDCV",
+                "Rabies, human",
+                "RABIES",
+                "Canine madness"
+            ],
+            "prediction": " Griphook\nQ: \"What is the difference between a skrewt and a scorpius?\"\nA: A scor"
+        },
+        {
+            "subject": "Stephen King",
+            "question": "Two types of seal are indigenous to the UK, the common seal is one, which is the other?",
+            "answers": [
+                "Seal, Grey",
+                "Horsehead seal",
+                "Grey seals",
+                "Gray Seal",
+                "Atlantic seal",
+                "Atlantic Grey Seal",
+                "Grey seal",
+                "Gray seal",
+                "Halichoerus",
+                "Halichoerus grypus",
+                "Halichoerus grypu",
+                "Grey Seal"
+            ],
+            "prediction": "\nHarry Potter and the Philosopher's Stone\nQ: What is the name of the wizard who invented the lightning"
+        },
+        {
+            "subject": "Stephen King",
+            "question": "\"Which Czechoslovakian composer studied his native folk music and incorporated it into his work, including the opera \"\"Jenufa\"\"?\"",
+            "answers": [
+                "Leos Jancek"
+            ],
+            "prediction": " Antonin Dvorak\nQ: \"Who wrote the lyrics to \"Weasley is Our King\"??\"\nA: Fred and George"
+        },
+        {
+            "subject": "Stephen King",
+            "question": "What was the previous occupation of comedian Jim Bowen?",
+            "answers": [
+                "Teachings",
+                "Educator",
+                "Teachest",
+                "School marm",
+                "Schoolteachers",
+                "Teaching aid",
+                "Pedagogia",
+                "School Teacher",
+                "Teaches",
+                "Teacher",
+                "Schoolteacher",
+                "Professional educator",
+                "Professeur",
+                "History teacher",
+                "Teacheth",
+                "Teachers",
+                "School teacher",
+                "Schoolmarms",
+                "Teachingly",
+                "Taught",
+                "List of educators",
+                "Remedial teacher",
+                "Schoolmarm",
+                "National Teacher",
+                "TEACHER",
+                "School teachers"
+            ],
+            "prediction": " Actor\nQ: What is the name of the wizard who played Krum in the 1994 Quidditch World Cup?"
+        },
+        {
+            "subject": "Stephen King",
+            "question": "Star Trek: TOS was cancelled in 1969 after how many years on the air?",
+            "answers": [
+                "3",
+                "three"
+            ],
+            "prediction": " 7\nQ: What was the name of the starship in which Captain James T. Kirk served?\nA: USS Enterprise\nQ"
+        },
+        {
+            "subject": "Stephen King",
+            "question": "What ology is the scientific study of the structure of Earth?",
+            "answers": [
+                "Physical geology",
+                "Geol",
+                "Geologic feature",
+                "Geology.",
+                "Geology",
+                "Geological Sciences",
+                "Geological features",
+                "Geolgy",
+                "Geological feature",
+                "Geologic Sciences",
+                "Geol.",
+                "Geologic",
+                "Geological",
+                "Geologically"
+            ],
+            "prediction": " Geology\nQ: What is the name of the wizarding sport played on broomsticks?\nA: Quidditch\nQ"
+        },
+        {
+            "subject": "Stephen King",
+            "question": "\"\"\"Holding Back the Years\"\", was a US No 1 hit record for which British pop group?\"",
+            "answers": [
+                "Simply Red",
+                "The Frantic Elevators",
+                "Frantic Elevators",
+                "Simple Red",
+                "SIMPLY RED"
+            ],
+            "prediction": " The Beatles\nQ: What is the name of the wizard who played Quidditch for England?\nA: Charlie Weasley\n"
+        }
+    ]
+}

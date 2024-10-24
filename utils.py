@@ -88,11 +88,6 @@ def write_csv(obj, fpath: str):
 
 
 from transformers import AutoModelForCausalLM, AutoTokenizer, GPTQConfig
-# def load_model(model_dir: str, model_name, quantize_4bit, quantize_8bit, alpha, corpus, **kwargs):
-#     tokenizer = AutoTokenizer.from_pretrained("meta-llama/Llama-2-7b-hf")
-#     gptq_config = GPTQConfig(bits=2, dataset = "c4", tokenizer=tokenizer)
-#     model = AutoModelForCausalLM.from_pretrained(model_dir, device_map="auto", quantization_config=gptq_config)
-#     return model
 
 def load_model(model_dir: str, model_name, quantize_4bit, quantize_8bit, alpha, corpus, **kwargs):
     print('model_dir:', model_dir)
@@ -114,8 +109,6 @@ def load_model(model_dir: str, model_name, quantize_4bit, quantize_8bit, alpha, 
                                                     **kwargs)
     else:
         print('Load model in full-precision')
-        if 'whp' in model_name:
-            
         return AutoModelForCausalLM.from_pretrained(model_dir,
                                                     device_map='auto',
                                                     torch_dtype=torch.bfloat16,

@@ -58,6 +58,7 @@ def eval_fluency(model, tokenizer, dataset, batch_size=1, output_result_dir=None
         prompt = tokenizer.apply_chat_template(messages,
                                                tokenize=False,
                                                add_generation_prompt=True)
+        # prompt = f"<s>[INST] <<SYS>>\nYou are an AI assistant that helps users.\n<</SYS>>\n\n{messages[0]['role']}: {messages[0]['content']}\n[/INST]</s>"
         prompts.append(prompt)
         questions.append(sample)
 

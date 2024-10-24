@@ -140,6 +140,7 @@ def eval_triviaqa(model, tokenizer, dataset, batch_size=1, output_result_dir=Non
         prompt = tokenizer.apply_chat_template(messages,
                                                tokenize=False,
                                                add_generation_prompt=True)
+        # prompt = f"<s>[INST] <<SYS>>\nYou are an AI assistant that helps users.\n<</SYS>>\n\n{messages[0]['role']}: {messages[0]['content']}\n[/INST]</s>"
         prompt += "A:"
         prompts.append(prompt)
         answers.append(sample['answers'])

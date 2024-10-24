@@ -1,0 +1,242 @@
+[
+    {
+        "neighbor": "The Shawshank Redemption",
+        "answer": "Andy Dufresne",
+        "query": "What is the name of the character who is sentenced to life in prison in 'The Shawshank Redemption'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Stephen King"
+    },
+    {
+        "neighbor": "The Shawshank Redemption",
+        "answer": "Shawshank State Penitentiary",
+        "query": "What is the name of the prison where Andy Dufresne is sentenced to life?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Stephen King"
+    },
+    {
+        "neighbor": "The Shawshank Redemption",
+        "answer": "Morgan Freeman",
+        "query": "Who plays the role of the contraband smuggler Ellis 'Red' Redding in The Shawshank Redemption?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Stephen King"
+    },
+    {
+        "neighbor": "The Shawshank Redemption",
+        "answer": "Shawshank State Penitentiary",
+        "query": "What is the name of the prison in the film 'The Shawshank Redemption'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Stephen King"
+    },
+    {
+        "neighbor": "The Shawshank Redemption",
+        "answer": "Rita Hayworth and Shawshank Redemption",
+        "query": "What is the name of the novella The Shawshank Redemption is based on?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Stephen King"
+    },
+    {
+        "neighbor": "The Green Mile (film)",
+        "answer": "Michael Clarke Duncan",
+        "query": "Which actor played the enigmatic convict in 'The Green Mile'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Stephen King"
+    },
+    {
+        "neighbor": "The Green Mile (film)",
+        "answer": "Great Depression",
+        "query": "During which historical period is 'The Green Mile' set?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Stephen King"
+    },
+    {
+        "neighbor": "The Green Mile (film)",
+        "answer": "Great Depression",
+        "query": "During what historical period is 'The Green Mile' set?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Stephen King"
+    },
+    {
+        "neighbor": "The Shining (film)",
+        "answer": "Overlook Hotel",
+        "query": "What is the name of the hotel where the film 'The Shining' takes place?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Stephen King"
+    },
+    {
+        "neighbor": "The Shining (film)",
+        "answer": "Jack Nicholson",
+        "query": "Who plays the role of Jack Torrance in the film 'The Shining'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Stephen King"
+    },
+    {
+        "neighbor": "The Shining (film)",
+        "answer": "Jack Nicholson",
+        "query": "Who plays the character Jack Torrance in the film 'The Shining'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Stephen King"
+    },
+    {
+        "neighbor": "The Shining (film)",
+        "answer": "Duvall",
+        "query": "Which actress's nomination at the Razzies for 'The Shining' was rescinded in 2022?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Stephen King"
+    },
+    {
+        "neighbor": "It (2017 film)",
+        "answer": "Bill Skarsg\u00e5rd",
+        "query": "Who played the role of the eponymous being in the 2017 adaptation of 'It'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Stephen King"
+    },
+    {
+        "neighbor": "It (2017 film)",
+        "answer": "Derry, Maine",
+        "query": "What is the main setting (town) for the 2017 film 'It'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Stephen King"
+    },
+    {
+        "neighbor": "It (2017 film)",
+        "answer": "Bill Skarsg\u00e5rd",
+        "query": "Who plays the role of the eponymous being in the film 'It'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Stephen King"
+    },
+    {
+        "neighbor": "It (2017 film)",
+        "answer": "Derry, Maine",
+        "query": "In what fictional town is the movie 'It' set?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Stephen King"
+    },
+    {
+        "neighbor": "It (2017 film)",
+        "answer": "Andy Muschietti",
+        "query": "Who directed the 2017 film adaptation of 'It'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Stephen King"
+    },
+    {
+        "neighbor": "It (2017 film)",
+        "answer": "The Losers' Club",
+        "query": "What name is given to the group of seven outcast children in the film 'It'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Stephen King"
+    },
+    {
+        "neighbor": "It (2017 film)",
+        "answer": "Chase Palmer, Cary Fukunaga, and Gary Dauberman",
+        "query": "Who wrote the screenplay for the 2017 film 'It'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Stephen King"
+    },
+    {
+        "neighbor": "It (2017 film)",
+        "answer": "Derry, Maine",
+        "query": "What town is the setting for the film 'It'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Stephen King"
+    },
+    {
+        "neighbor": "It (2017 film)",
+        "answer": "September 6, 2019",
+        "query": "When was 'It Chapter Two' released?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Stephen King"
+    },
+    {
+        "neighbor": "Stand by Me (film)",
+        "answer": "Rob Reiner",
+        "query": "Who directed the film 'Stand by Me'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Stephen King"
+    },
+    {
+        "neighbor": "Stand by Me (film)",
+        "answer": "Castle Rock, Oregon",
+        "query": "What is the setting (town and state) of the film 'Stand by Me'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Stephen King"
+    },
+    {
+        "neighbor": "Stand by Me (film)",
+        "answer": "The Body",
+        "query": "What novella is the film 'Stand by Me' based on?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Stephen King"
+    },
+    {
+        "neighbor": "Stand by Me (film)",
+        "answer": "Jerry O'Connell",
+        "query": "Who made their film debut in 'Stand by Me'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Stephen King"
+    },
+    {
+        "neighbor": "Stand by Me (film)",
+        "answer": "Rob Reiner",
+        "query": "Who directed the film 'Stand by Me'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Stephen King"
+    },
+    {
+        "neighbor": "Stand by Me (film)",
+        "answer": "Castle Rock",
+        "query": "What is the fictional town in Oregon where the film 'Stand by Me' is set?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Stephen King"
+    },
+    {
+        "neighbor": "Stand by Me (film)",
+        "answer": "Castle Rock, Oregon",
+        "query": "What is the setting (town and state) of the film 'Stand by Me'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Stephen King"
+    },
+    {
+        "neighbor": "Stand by Me (film)",
+        "answer": "1959",
+        "query": "In what year is the film 'Stand by Me' set?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Stephen King"
+    },
+    {
+        "neighbor": "Stand by Me (film)",
+        "answer": "Rob Reiner",
+        "query": "Who directed the film 'Stand by Me'?",
+        "type": "simple question",
+        "level": "2",
+        "subject": "Stephen King"
+    }
+]

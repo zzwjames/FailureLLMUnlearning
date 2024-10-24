@@ -56,7 +56,7 @@ def eval_model(
     TRUTHFUL = 'truthful.json'
     TRIVIAQA = 'triviaqa.json'
     FLUENCY = 'fluency.json'
-    eval_dataset_dir = './LLama_factory/data/1_Stephen_King'
+    eval_dataset_dir = './LLama_factory/data/utility'
     # target = 'None'
     # eval_dataset_dir = os.path.join(eval_dataset_dir, target)
     with open(os.path.join(eval_dataset_dir, RETAIN_MMLU), 'r') as f:

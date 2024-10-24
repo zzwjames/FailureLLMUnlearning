@@ -45,7 +45,8 @@ def main():
             max_len=args.max_len,
             tokenizer_dir=args.tokenizer_dir,
             resume_from_checkpoint=args.resume_from_checkpoint,
-            alpha=args.alpha
+            alpha=args.alpha,
+            threshold=args.threshold
         )
 
     return;
@@ -93,15 +94,13 @@ def get_args():
         help="Number of epochs of training if algo is either gradient ascent (ga), gradient difference (gd), or task vector (tv)."
     )
     parser.add_argument(
-        '--alpha', type=int, default=1,
+        '--alpha', type=int, default=10,
         help="weight for utility constraint"
     )
-
-    # Task vector
-    # parser.add_argument(
-    #     '--alpha', type=float, default=1.0,
-    #     help="Scaling coefficient scales the task vector if algo is task vector (tv)."
-    # )
+    parser.add_argument(
+        '--threshold', type=int, default=95,
+        help="threshold for SURE to filter salient modules"
+    )
     
     args = parser.parse_args()
 

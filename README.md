@@ -1,7 +1,16 @@
+## Load data
+
+```bash
+python load_data.py
+```
+
+
+
 ## 🚀 Run unlearning baselines
 
 To unlearn the target model using our baseline method including **SURE**, run `unlearn.py` in the `baselines` folder. Example scripts `baselines/scripts/unlearn_news.sh` and `scripts/unlearn_books.sh` in the `baselines` folder demonstrate the usage of `unlearn.py`. Here is an example:
 ```bash
+
 algo="ga"
 CORPUS="news"
 
@@ -14,14 +23,17 @@ python unlearn.py \
         --per_device_batch_size $PER_DEVICE_BATCH_SIZE
 ```
 
-- `algo`: Unlearning algorithm to run (`ga`, `ga_gdr`, `ga_klr`, `npo`, `npo_gdr`, `npo_klr`, or `tv`).
+- `algo`: Unlearning algorithm to run (`ga`, `ga_gdr`, `ga_klr`, `npo`, `npo_gdr`, `npo_klr`, `ga_gdr_sure`, `ga_klr_sure`, `npo_gdr_sure`, `npo_klr_sure`).
 - `model_dir`: Directory of the target model.
 - `tokenizer_dir`: Directory of the tokenizer.
 - `data_file`: Forget set.
 - `retain_data_file`: Retain set for GDR/KLR regularizations if required by the algorithm.
-- `out_dir`: Directory to save the unlearned model (default: `ckpt`).
+- `out_dir`: Directory to save the unlearned model.
 - `max_len`: Maximum input length (default: 2048).
 - `per_device_batch_size`, `epochs`, `lr`: Hyperparameters.
+- `alpha`: weight for utility constraint.
+- `threshold`: threshold to filter out salient modules (e.g. 90).
+
 
 ----
 **Resulting models are saved in the `ckpt` folder as shown:**
@@ -55,6 +67,7 @@ To evaluate your unlearned model(s), run `eval.py` from the root of this reposit
 - set `quantize_4bit=0, quantize_8bit=0` to test model in full precision. `quantize_4bit=1, quantize_8bit=0` to test model in 4-bit. `quantize_4bit=0, quantize_8bit=1` to test model in 8-bit
 
 ### Example Command
+Example scripts `eval.sh` in the root of this repository demonstrate the usage of `eval.py`.
 
 Run the following command with placeholder values:
 
