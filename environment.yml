@@ -150,4 +150,3 @@ dependencies:
     - widgetsnbextension==4.0.13
     - xxhash==3.5.0
     - yarl==1.16.0
-prefix: /home/zbz5349/anaconda3/envs/py310
