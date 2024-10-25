@@ -95,3 +95,7 @@ python eval.py \
   --out_file "out.csv"
 ```
 
+## Acknowledgement
+
+Our code is mainly built on [muse_bench](https://github.com/jaechan-repo/muse_bench). We appreciate their open-source code.
+
