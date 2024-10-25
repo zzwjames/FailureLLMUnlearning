@@ -24,7 +24,7 @@ Before proceeding, load all the data from HuggingFace to the root of this repost
 python load_data.py
 ```
 
-## 🚀 Run unlearning baselines
+## 🚀 Run unlearning methods
 
 To unlearn the target model using our baseline method including **SURE**, run `unlearn.py` in the `baselines` folder. Example scripts `baselines/scripts/unlearn_news.sh` and `scripts/unlearn_books.sh` in the `baselines` folder demonstrate the usage of `unlearn.py`. Here is an example:
 ```bash
