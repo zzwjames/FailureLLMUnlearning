@@ -7,7 +7,7 @@ This repository provides the original implementation of [*Does your LLM truly un
 To create a conda environment for Python 3.10, run:
 ```bash
 conda env create -f environment.yml
-conda activate muse_bench
+conda activate py310
 ```
 
 ## 📘 Data & Target Models
