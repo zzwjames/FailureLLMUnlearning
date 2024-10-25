@@ -38,6 +38,7 @@ python unlearn.py \
         --data_file $FORGET --retain_data_file $RETAIN \
         --out_dir "./ckpt/$CORPUS/$algo" \
         --max_len $MAX_LEN --epochs $EPOCHS --lr $LR \
+        --alpha 1 --threshold 90 \
         --per_device_batch_size $PER_DEVICE_BATCH_SIZE
 ```
 
