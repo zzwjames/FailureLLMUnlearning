@@ -1,4 +1,4 @@
-This repository provides the original implementation of [*Does your LLM truly unlearn? An embarrassingly simple approach to recover unlearned knowledge*](https://arxiv.org/pdf/2410.16454)
+This repository provides the original implementation of [*Does your LLM truly unlearn? An embarrassingly simple approach to recover unlearned knowledge*](https://arxiv.org/abs/2410.16454)
 
 ## 🛠️ Installation
 
