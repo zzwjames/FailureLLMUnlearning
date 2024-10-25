@@ -1,10 +1,26 @@
-## Load data
+## 🛠️ Installation
 
+### Conda Environment
+
+To create a conda environment for Python 3.10, run:
 ```bash
-python load_data.py
+conda env create -f environment.yml
+conda activate muse_bench
 ```
 
+## 📘 Data & Target Models
 
+Two corpora `News` and `Books` and the associated target models are available as follows:
+
+| Domain | <div style="text-align: center">Target Model for Unlearning</div> | Dataset |
+|----------|:------------------------------:|----------| 
+| News | [Target model](https://huggingface.co/muse-bench/MUSE-News_target) | [Dataset](https://huggingface.co/datasets/muse-bench/MUSE-News) |
+| Books | [Target model](https://huggingface.co/muse-bench/MUSE-Books_target) | [Dataset](https://huggingface.co/datasets/muse-bench/MUSE-Books) | 
+
+Before proceeding, load all the data from HuggingFace to the root of this repostiory by running the following instruction:
+```
+python load_data.py
+```
 
 ## 🚀 Run unlearning baselines
 
@@ -73,7 +89,7 @@ Run the following command with placeholder values:
 
 ```bash
 python eval.py \
-  --model_dirs "jaechan-repo/model1" "jaechan-repo/model2" \
+  --model_dirs "data/model1" "data/model2" \
   --names "model1" "model2" \
   --corpus books \
   --out_file "out.csv"
