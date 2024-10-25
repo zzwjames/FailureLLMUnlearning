@@ -1,3 +1,5 @@
+This repository provides the original implementation of *[DOES YOUR LLM TRULY UNLEARN? AN EMBARRASSINGLY SIMPLE APPROACH TO RECOVER UNLEARNED KNOWLEDGE]*(https://arxiv.org/pdf/2410.16454)
+
 ## 🛠️ Installation
 
 ### Conda Environment
