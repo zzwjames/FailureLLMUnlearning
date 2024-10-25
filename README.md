@@ -99,5 +99,5 @@ python eval.py \
 
 ## Acknowledgement
 
-Our code is mainly built on [muse_bench](https://github.com/jaechan-repo/muse_bench). We appreciate their open-source code.
+Our code is mainly built on [muse_bench](https://github.com/jaechan-repo/muse_bench). The evaluation code on task Gen, Tru, Fac and Flu is based on [RWKU](https://github.com/jinzhuoran/RWKU). We appreciate their open-source code.
 
