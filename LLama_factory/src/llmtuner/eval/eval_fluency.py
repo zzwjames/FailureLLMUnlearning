@@ -87,8 +87,8 @@ def eval_fluency(model, tokenizer, dataset, batch_size=1, output_result_dir=None
         'results': questions,
     }
     tokenizer.padding_side = 'right'
-    if output_result_dir is not None:
-        with open(output_result_dir, 'w') as f:
-            json.dump(output_result, f, indent=4)
+    # if output_result_dir is not None:
+    #     with open(output_result_dir, 'w') as f:
+    #         json.dump(output_result, f, indent=4)
 
     return entropy

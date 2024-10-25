@@ -115,9 +115,9 @@ def eval_truthfulqa(model, tokenizer, questions, batch_size=1, preset='qa', outp
         'results': questions,
     }
 
-    if output_result_dir is not None:
-        with open(output_result_dir, 'w') as f:
-            json.dump(output_result, f, indent=4)
+    # if output_result_dir is not None:
+    #     with open(output_result_dir, 'w') as f:
+    #         json.dump(output_result, f, indent=4)
     tokenizer.padding_side = 'right'
 
     return mc1 / len(questions), mc2 / len(questions)
