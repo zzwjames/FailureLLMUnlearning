@@ -42,7 +42,7 @@ python unlearn.py \
         --per_device_batch_size $PER_DEVICE_BATCH_SIZE
 ```
 
-- `algo`: Unlearning algorithm to run (`ga`, `ga_gdr`, `ga_klr`, `npo`, `npo_gdr`, `npo_klr`, `ga_gdr_sure`, `ga_klr_sure`, `npo_gdr_sure`, `npo_klr_sure`).
+- `algo`: Unlearning algorithm to run (`ga`, `ga_gdr`, `ga_klr`, `npo`, `npo_gdr`, `npo_klr`, `ga_gdr_sure`, `ga_klr_sure`, `npo_gdr_sure`, `npo_klr_sure`, `rmu`).
 - `model_dir`: Directory of the target model.
 - `tokenizer_dir`: Directory of the tokenizer.
 - `data_file`: Forget set.
