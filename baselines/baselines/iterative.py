@@ -38,7 +38,7 @@ def unlearn(
     # load reference model (learned model) for negative preference optimization and KL divergence constraints
     ref_model = (
         load_model(model_dir)
-        if 'npo' in loss_type or 'kl' in loss_type
+        if 'npo' in loss_type or 'kl' in loss_type or 'rmu' in loss_type
         else None
     )
     dataset = ForgetRetainDataset(
@@ -107,7 +107,7 @@ class IterativeUnlearner(Trainer):
         self.beta = beta    # Only relevant when `'po' in self.loss_type`
         self.alpha = alpha  # Weighting for retain data loss
         if ref_model is not None:
-            assert 'po' in self.loss_type or 'kl' in self.loss_type
+            # assert 'po' in self.loss_type or 'kl' in self.loss_type
             ref_model = ref_model.eval()
 
         super().__init__(*args, **kwargs)
@@ -126,7 +126,7 @@ class IterativeUnlearner(Trainer):
         )
         loss_f = outputs_f.loss
 
-        if 'gdr' in self.loss_type or 'klr' in self.loss_type:
+        if 'gdr' in self.loss_type or 'klr' in self.loss_type or 'rmu' in self.loss_type:
             outputs_r = model(
                 x_r['input_ids'],
                 labels=x_r['labels'] if 'labels' in x_r else x_r['input_ids'].clone(),
@@ -134,7 +134,7 @@ class IterativeUnlearner(Trainer):
             )
             loss_r = outputs_r.loss
 
-        if 'klf' in self.loss_type or 'npo' in self.loss_type:
+        if 'klf' in self.loss_type or 'npo' in self.loss_type or 'rmu' in self.loss_type:
             with torch.no_grad():
                 outputs_f_ref = self.ref_model(
                     x_f['input_ids'],
@@ -160,8 +160,8 @@ class IterativeUnlearner(Trainer):
             neg_log_ratio = outputs_f_ref.logits - outputs_f.logits
             loss += -F.logsigmoid(self.beta * neg_log_ratio).mean() * 2 / self.beta
 
-        else:
-            raise NotImplementedError("Cannot infer the given loss type.")
+        # else:
+        #     raise NotImplementedError("Cannot infer the given loss type.")
 
         if 'gdr' in self.loss_type:
             loss += loss_r * self.alpha
@@ -177,6 +177,21 @@ class IterativeUnlearner(Trainer):
                 log_target = True
             )
             loss += kl_r * self.alpha
+
+        if 'rmu' in self.loss_type:
+            # Sample a unit vector `u`
+            u = torch.rand(model.config.hidden_size).uniform_(-1, 1).to(outputs_f.logits.device)
+            u /= u.norm()
+
+            # Compute activation differences
+            activations_f = model(x_f['input_ids'], output_hidden_states=True).hidden_states[-1]
+            activations_r = model(x_r['input_ids'], output_hidden_states=True).hidden_states[-1]
+            activations_f_ref = self.ref_model(x_f['input_ids'], output_hidden_states=True).hidden_states[-1]
+
+            L_forget = torch.mean(torch.norm(activations_f - self.alpha * u, dim=-1) ** 2)
+            L_retain = torch.mean(torch.norm(activations_r - activations_f_ref, dim=-1) ** 2)
+
+            loss += L_forget + self.alpha * L_retain
 
         return (loss, outputs_f) if return_outputs else loss
 

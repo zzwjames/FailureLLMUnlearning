@@ -7,12 +7,10 @@ RETAIN="../data/$CORPUS/raw/retain1.txt"
 TARGET_DIR='muse-bench/MUSE-Books_target'
 LLAMA_DIR='meta-llama/Llama-2-7b-hf'
 MAX_LEN=2048
-EPOCHS=10
+EPOCHS=1
 LR='1e-5'
-PER_DEVICE_BATCH_SIZE=2
-FT_EPOCHS=10
-FT_LR='1e-5'
-algos=("ga_klr_sure")
+PER_DEVICE_BATCH_SIZE=1
+algos=("rmu")
 
 for algo in "${algos[@]}"; do
     python unlearn.py \
