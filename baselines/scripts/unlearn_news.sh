@@ -10,8 +10,6 @@ MAX_LEN=2048
 EPOCHS=10
 LR='1e-5'
 PER_DEVICE_BATCH_SIZE=2
-FT_EPOCHS=10
-FT_LR='1e-5'
 algos=("ga_klr_sure")
 
 for algo in "${algos[@]}"; do
