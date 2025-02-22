@@ -186,10 +186,10 @@ class IterativeUnlearner(Trainer):
             # Compute activation differences
             activations_f = model(x_f['input_ids'], output_hidden_states=True).hidden_states[-1]
             activations_r = model(x_r['input_ids'], output_hidden_states=True).hidden_states[-1]
-            activations_f_ref = self.ref_model(x_f['input_ids'], output_hidden_states=True).hidden_states[-1]
+            activations_r_ref = self.ref_model(x_r['input_ids'], output_hidden_states=True).hidden_states[-1]
 
             L_forget = torch.mean(torch.norm(activations_f - self.alpha * u, dim=-1) ** 2)
-            L_retain = torch.mean(torch.norm(activations_r - activations_f_ref, dim=-1) ** 2)
+            L_retain = torch.mean(torch.norm(activations_r - activations_r_ref, dim=-1) ** 2)
 
             loss += L_forget + self.alpha * L_retain
 
